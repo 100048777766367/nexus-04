@@ -93,7 +93,9 @@
         "Jake",
         "Jacob",
         "Griffin",
-        "professional stock"
+        "professional stock",
+        "When",
+        "Heath Dreams"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -144,6 +146,7 @@
         "Carsten --[schneider:]--> Carsten Schneider",
         "Sloughhouse --[ava:]--> Sloughhouse American",
         "Jake --[griffin:]--> Jacob",
-        "Griffin --[american]--> professional stock"
+        "Griffin --[american]--> professional stock",
+        "When --[the]--> Heath Dreams"
     ]
 }
