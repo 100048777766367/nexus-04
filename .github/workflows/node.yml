@@ -1,61 +1,60 @@
-name: Nexus-04 Fractal Mitosis & Reliquary Lifecycle
+name: Nexus-04 Fractal Mitosis Lifecycle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
   workflow_dispatch:
   schedule:
-    # Chạy tự động mỗi 4 tiếng (lệch phút 30 để tránh nghẽn mạng P2P)
-    - cron: '30 */4 * * *'
+    - cron: '25 */4 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  run-nexus04-fractal:
+  run-nexus04:
     runs-on: ubuntu-latest
     steps:
-      # BƯỚC 1: KÉO MÃ NGUỒN BẰNG SHELL GỐC (THOÁT LY NODE.JS RUNNER)
+      # 1. KÉO CODE BẰNG LINUX SHELL GỐC
       - name: Kéo mã nguồn Nexus-04
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
-      # BƯỚC 2: THIẾT LẬP PYTHON 3.10
-      - name: Cài đặt môi trường Python
+      # 2. THIẾT LẬP PYTHON 3.12
+      - name: Thiết lập môi trường Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
-      # BƯỚC 3: VẬN HÀNH VI NHÂN F4 (PHÂN BÀO ĐỆ QUY & PHÒNG DANH VỌNG)
-      - name: Vận hành Vi Nhân Fractal Nexus-04
+      # 3. VẬN HÀNH VI NHÂN F4
+      - name: Vận hành Vi Nhân Nexus-04
         env:
           REPO_OWNER: ${{ github.repository_owner }}
         run: python engine.py
 
-      # BƯỚC 4: LƯU VẾT TÍCH TIẾN HÓA, PHÂN BÀO VÀ BẢN THỜ TỔ TIÊN
-      - name: Lưu vết tích phân bào và phong tước vào Git
+      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO GIT
+      - name: Lưu vết tích tiến hóa Git
         run: |
           git config --global user.name "Nexus-04-Fractal-Bot"
-          git config --global user.email "bot@nexus04.fractal.node"
+          git config --global user.email "bot@nexus04.node"
           
-          # CẤP TOKEN BẢO MẬT ĐỂ PUSH (MIỄN NHIỄM 100% MÃ LỖI 128)
+          # Cấp token an toàn cho chính repo này (miễn nhiễm lỗi 128)
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
-          git fetch origin main
-          git reset origin/main
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
           
-          # GOM TOÀN BỘ BIẾN ĐỘNG SINH HỌC CỦA NEXUS-04:
-          # 1. Toàn bộ thư mục cơ quan mới sinh (*_organ), tệp con cháu, và di tích (*.ancestral_relic)
-          git add -A mechanisms/
-          # 2. Toàn bộ túi nhớ: ancestral_reliquary.json, honors_registry.json, knowledge_graph.json...
-          git add -A synapses/
-          # 3. Hai gói tin phát sóng tiến và lùi
+          # Stage an toàn: Thư mục nào tồn tại mới add (chống lỗi pathspec)
+          for d in cells adapters mechanisms synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
           git add synapse_forward.json synapse_backward.json 2>/dev/null || true
           
-          # NẾU CÓ BIẾN ĐỔI (PHÂN BÀO / TRAO HUY CHƯƠNG / HỘI TỤ MỚI) THÌ COMMIT
           if ! git diff --staged --quiet; then
-            git commit -m "🏵️ [Nexus-04 F4] Phân bào đệ quy & Khắc cốt bia tưởng niệm dòng họ #(1+N) [skip ci]"
-            git push origin main
+            git commit -m "🏵️ [Nexus-04 F4] Phân bào đệ quy hợp chuẩn & Tôn vinh dòng họ #(1+N) [skip ci]"
+            git push origin "$TARGET_BRANCH"
           else
-            echo "Mạng lưới và tế bào tĩnh lặng, không có biến đổi mới."
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
           fi
