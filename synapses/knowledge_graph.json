@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "From",
-        "was the",
         "Sukkwan",
         "(film): Sukkwan",
         "Kristen",
@@ -99,7 +97,9 @@
         "André",
         "Stadion: André",
         "Ebenezer",
-        "House: The"
+        "House: The",
+        "Responsible",
+        "End the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -154,6 +154,7 @@
         "When --[the]--> Heath Dreams",
         "Port --[shëngjin:]--> The Port",
         "André --[kamperveen]--> Stadion: André",
-        "Ebenezer --[maxwell]--> House: The"
+        "Ebenezer --[maxwell]--> House: The",
+        "Responsible --[plan]--> End the"
     ]
 }
