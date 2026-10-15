@@ -43,7 +43,9 @@
         "Sayed",
         "Islam: Sayed",
         "Was",
-        "general secretary"
+        "general secretary",
+        "Patrick",
+        "Three-Decker: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -68,6 +70,7 @@
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
-        "Was --[the]--> general secretary"
+        "Was --[the]--> general secretary",
+        "Patrick --[mcguinness]--> Three-Decker: The"
     ]
 }
