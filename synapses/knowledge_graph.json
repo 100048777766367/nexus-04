@@ -30,7 +30,12 @@
         "Ferwerderadiel:",
         "former municipality",
         "Its",
-        "name West"
+        "name West",
+        "Leticia",
+        "Leticia Ann",
+        "American journalist",
+        "She",
+        "known former"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -48,6 +53,9 @@
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
-        "Its --[official]--> name West"
+        "Its --[official]--> name West",
+        "Leticia --[cline:]--> Leticia Ann",
+        "Leticia --[cline]--> American journalist",
+        "She --[best]--> known former"
     ]
 }
