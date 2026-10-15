@@ -62,7 +62,10 @@
         "Spider!:",
         "1991 British",
         "Committee",
-        "Handling Proposals:"
+        "Handling Proposals:",
+        "Haru",
+        "Haru Japanese",
+        "for the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -97,6 +100,8 @@
         "Tambaqui: --[the]--> tambaqui large",
         "Native --[tropical]--> South America,",
         "Spider!: --[spider]--> 1991 British",
-        "Committee --[for]--> Handling Proposals:"
+        "Committee --[for]--> Handling Proposals:",
+        "Haru --[(actress):]--> Haru Japanese",
+        "She --[known]--> for the"
     ]
 }
