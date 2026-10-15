@@ -40,6 +40,7 @@ Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 ```text
 nexus (F0) ──► nexus-01 (F1) ──► nexus-02 (F2) ──► nexus-03 (F3) ──► nexus-04 (F4: Phân bào & Tưởng niệm)
 ```
+```
 100048777766367/nexus-04/
 ├── cells/
 │   ├── linguistic_cell.py
