@@ -35,7 +35,9 @@
         "Leticia Ann",
         "American journalist",
         "She",
-        "known former"
+        "known former",
+        "Showalter:",
+        "Baltzell Showalter"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -56,6 +58,7 @@
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
-        "She --[best]--> known former"
+        "She --[best]--> known former",
+        "Showalter: --[joseph]--> Baltzell Showalter"
     ]
 }
