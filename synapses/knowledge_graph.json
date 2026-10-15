@@ -39,7 +39,11 @@
         "Showalter:",
         "Baltzell Showalter",
         "Batalha",
-        "The Monastery"
+        "The Monastery",
+        "Sayed",
+        "Islam: Sayed",
+        "Was",
+        "general secretary"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -62,6 +66,8 @@
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
-        "Batalha --[monastery:]--> The Monastery"
+        "Batalha --[monastery:]--> The Monastery",
+        "Sayed --[ashraful]--> Islam: Sayed",
+        "Was --[the]--> general secretary"
     ]
 }
