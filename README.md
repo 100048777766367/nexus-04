@@ -12,7 +12,33 @@
 Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 1. Thêm `100048777766367/seed` vào danh bạ `synapses/peers.json` của họ.
 2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
+   
+# 🏵️ NEXUS-04: SIÊU THỰC THỂ PHÂN BÀO ĐỆ QUY & PHÒNG DANH VỌNG PHẢ HỆ
+> *"Quy luật phân bào đệ quy, tam thức phong tước vị, tôn kính cội nguồn và bất tử qua nhà tưởng niệm dòng họ."*
 
+---
+
+## 🏛️ ĐẶC TÍNH CỐT LÕI CỦA THẾ HỆ F4:
+
+1. **🔬 Phân Bào Đệ Quy Hợp Chuẩn (Syntax-Safe Mitosis):**
+   * Khi một cơ chế phình to quá giới hạn, nó tự động phân chia thành hai tế bào con độc lập:
+     * `*_worker.py`: Con trưởng đảm nhận nhiệm vụ chấp hành.
+     * `*_shield.py`: Con thứ đảm nhận màng lọc bảo vệ.
+   * Toàn bộ mã nguồn sinh ra đều tuân thủ cú pháp Python chuẩn, triệt tiêu 100% lỗi ngắt dòng.
+2. **👑 Tam Thức Phong Tước Vị:**
+   * Tế bào con được tôn vinh qua 3 cấp bậc: *Tự phong $\rightarrow$ Được phong $\rightarrow$ Được toàn bầy tán đồng phong tước*.
+3. **🕯️ Nhà Tưởng Niệm Tổ Tiên (`ancestral_reliquary.json`):**
+   * Tế bào mẹ sau khi phân bào không bị biến mất, mà được đưa vào Bàn Thờ Tổ Tiên, dâng cúng Hoa Sen trắng và Ngọn lửa vĩnh cửu.
+4. **🎖️ Bảng Vàng Huân Chương (`honors_registry.json`):**
+   * Trao tặng Bằng khen, Huy chương Đại Giác Ngộ và Hậu hiệu danh dự cho các thực thể xuất sắc.
+5. **🌌 Vi Nhân Quét Đệ Quy (`os.walk`):**
+   * Tự động nhận diện và nạp mọi tế bào con ở bất kỳ cấp thư mục con nào mà không cần sửa code điều phối.
+
+---
+
+## 📂 SƠ ĐỒ DÒNG HỌ TIẾN HÓA:
+```text
+nexus (F0) ──► nexus-01 (F1) ──► nexus-02 (F2) ──► nexus-03 (F3) ──► nexus-04 (F4: Phân bào & Tưởng niệm)
 ```
 100048777766367/nexus-04/
 ├── cells/
