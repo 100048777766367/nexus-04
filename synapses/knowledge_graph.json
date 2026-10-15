@@ -45,7 +45,10 @@
         "Was",
         "general secretary",
         "Patrick",
-        "Three-Decker: The"
+        "Three-Decker: The",
+        "Anderson",
+        "District (Anderson,",
+        "cotton being"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -71,6 +74,8 @@
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
-        "Patrick --[mcguinness]--> Three-Decker: The"
+        "Patrick --[mcguinness]--> Three-Decker: The",
+        "Anderson --[historic]--> District (Anderson,",
+        "The --[amount]--> cotton being"
     ]
 }
