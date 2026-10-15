@@ -51,6 +51,7 @@ class Nexus04FractalKernel:
                 if file.endswith(".py") and not file.startswith("__") and file != "base.py":
                     rel_dir = os.path.relpath(root, os.path.dirname(__file__))
                     module_name = f"{rel_dir.replace(os.path.sep, '.')}.{file[:-3]}"
+                    full_file_path = os.path.join(root, file)
                     try:
                         mod = importlib.import_module(module_name)
                         importlib.reload(mod)
@@ -58,6 +59,12 @@ class Nexus04FractalKernel:
                             if issubclass(obj, BaseMechanism) and obj is not BaseMechanism:
                                 mechanisms.append(obj())
                                 print(f"🔌 [VI NHÂN F4 NẠP]: '{obj.name}' từ '{rel_dir}/{file}'")
+                    except SyntaxError as se:
+                        # TỰ ĐỘNG DIỆT TỆP RÁC BỊ LỖI CÚ PHÁP
+                        print(f"🗑️ [TỰ ĐỘNG DỌN RÁC] Phát hiện tệp lỗi cú pháp '{file}', đang tự xóa: {se}")
+                        try:
+                            os.remove(full_file_path)
+                        except Exception: pass
                     except Exception as e:
                         print(f"⚠️ [LỖI NẠP {file}]: {e}")
 
