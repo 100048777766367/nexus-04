@@ -71,7 +71,11 @@
         "Kennedy's",
         "novel and",
         "Blas",
-        "Admiral Blas"
+        "Admiral Blas",
+        "Phenix",
+        "Alabama: Phenix",
+        "State",
+        "and the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -111,6 +115,8 @@
         "She --[known]--> for the",
         "Serious --[sweet:]--> Serious Sweet",
         "Kennedy's --[8th]--> novel and",
-        "Blas --[lezo:]--> Admiral Blas"
+        "Blas --[lezo:]--> Admiral Blas",
+        "Phenix --[city,]--> Alabama: Phenix",
+        "State --[alabama,]--> and the"
     ]
 }
