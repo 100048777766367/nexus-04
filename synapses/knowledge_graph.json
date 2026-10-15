@@ -77,7 +77,9 @@
         "State",
         "and the",
         "Most",
-        "Are Losers:"
+        "Are Losers:",
+        "County",
+        "The County"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -120,6 +122,7 @@
         "Blas --[lezo:]--> Admiral Blas",
         "Phenix --[city,]--> Alabama: Phenix",
         "State --[alabama,]--> and the",
-        "Most --[guys]--> Are Losers:"
+        "Most --[guys]--> Are Losers:",
+        "County --[razès:]--> The County"
     ]
 }
