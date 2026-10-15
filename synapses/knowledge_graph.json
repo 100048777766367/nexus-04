@@ -81,7 +81,9 @@
         "County",
         "The County",
         "Alfafar:",
-        "municipality the"
+        "municipality the",
+        "Riders",
+        "Stars: Riders"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -126,6 +128,7 @@
         "State --[alabama,]--> and the",
         "Most --[guys]--> Are Losers:",
         "County --[razès:]--> The County",
-        "Alfafar: --[alfafar]--> municipality the"
+        "Alfafar: --[alfafar]--> municipality the",
+        "Riders --[the]--> Stars: Riders"
     ]
 }
