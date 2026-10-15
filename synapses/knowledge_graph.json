@@ -75,7 +75,9 @@
         "Phenix",
         "Alabama: Phenix",
         "State",
-        "and the"
+        "and the",
+        "Most",
+        "Are Losers:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -117,6 +119,7 @@
         "Kennedy's --[8th]--> novel and",
         "Blas --[lezo:]--> Admiral Blas",
         "Phenix --[city,]--> Alabama: Phenix",
-        "State --[alabama,]--> and the"
+        "State --[alabama,]--> and the",
+        "Most --[guys]--> Are Losers:"
     ]
 }
