@@ -48,7 +48,13 @@
         "Three-Decker: The",
         "Anderson",
         "District (Anderson,",
-        "cotton being"
+        "cotton being",
+        "Rara",
+        "rara was",
+        "Operated",
+        "December 2011",
+        "Offered",
+        "on-deman"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -76,6 +82,9 @@
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
-        "The --[amount]--> cotton being"
+        "The --[amount]--> cotton being",
+        "Rara --[(service):]--> rara was",
+        "Operated --[between]--> December 2011",
+        "Offered --[ad-free,]--> on-deman"
     ]
 }
