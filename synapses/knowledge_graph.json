@@ -26,7 +26,11 @@
         "Sir",
         "Comes Lunch:",
         "Wodehouse,",
-        "features the"
+        "features the",
+        "Ferwerderadiel:",
+        "former municipality",
+        "Its",
+        "name West"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -42,6 +46,8 @@
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
-        "Wodehouse, --[and]--> features the"
+        "Wodehouse, --[and]--> features the",
+        "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
+        "Its --[official]--> name West"
     ]
 }
