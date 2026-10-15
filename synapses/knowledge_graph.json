@@ -95,7 +95,9 @@
         "Griffin",
         "professional stock",
         "When",
-        "Heath Dreams"
+        "Heath Dreams",
+        "Port",
+        "The Port"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -147,6 +149,7 @@
         "Sloughhouse --[ava:]--> Sloughhouse American",
         "Jake --[griffin:]--> Jacob",
         "Griffin --[american]--> professional stock",
-        "When --[the]--> Heath Dreams"
+        "When --[the]--> Heath Dreams",
+        "Port --[shëngjin:]--> The Port"
     ]
 }
