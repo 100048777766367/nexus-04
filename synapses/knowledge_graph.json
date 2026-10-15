@@ -58,7 +58,9 @@
         "Tambaqui:",
         "tambaqui large",
         "Native",
-        "South America,"
+        "South America,",
+        "Spider!:",
+        "1991 British"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -91,6 +93,7 @@
         "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
         "Tambaqui: --[the]--> tambaqui large",
-        "Native --[tropical]--> South America,"
+        "Native --[tropical]--> South America,",
+        "Spider!: --[spider]--> 1991 British"
     ]
 }
