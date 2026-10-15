@@ -85,7 +85,9 @@
         "Riders",
         "Stars: Riders",
         "Large-nosed",
-        "turtle: The"
+        "turtle: The",
+        "Carsten",
+        "Carsten Schneider"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -132,6 +134,7 @@
         "County --[razès:]--> The County",
         "Alfafar: --[alfafar]--> municipality the",
         "Riders --[the]--> Stars: Riders",
-        "Large-nosed --[wood]--> turtle: The"
+        "Large-nosed --[wood]--> turtle: The",
+        "Carsten --[schneider:]--> Carsten Schneider"
     ]
 }
