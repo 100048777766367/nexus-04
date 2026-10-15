@@ -1,6 +1,7 @@
 import hashlib
 
 class LinguisticCell:
+    """Biến văn bản từ Internet thành vector ngữ nghĩa 4D trong [0.0, 1.0] bằng bọt biển SHAKE-256"""
     @staticmethod
     def embed_text(text):
         if not text:
