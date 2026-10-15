@@ -89,7 +89,11 @@
         "Carsten",
         "Carsten Schneider",
         "Sloughhouse",
-        "Sloughhouse American"
+        "Sloughhouse American",
+        "Jake",
+        "Jacob",
+        "Griffin",
+        "professional stock"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -138,6 +142,8 @@
         "Riders --[the]--> Stars: Riders",
         "Large-nosed --[wood]--> turtle: The",
         "Carsten --[schneider:]--> Carsten Schneider",
-        "Sloughhouse --[ava:]--> Sloughhouse American"
+        "Sloughhouse --[ava:]--> Sloughhouse American",
+        "Jake --[griffin:]--> Jacob",
+        "Griffin --[american]--> professional stock"
     ]
 }

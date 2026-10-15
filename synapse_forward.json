@@ -2,40 +2,39 @@
     "contract": "bodhi.nexus.v4",
     "node_dna": {
         "identity": "100048777766367/nexus-04",
-        "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
-        "generation_epoch": 55,
-        "architecture": "Nexus03_Autogenic_Microkernel",
-        "knowledge_graph": "Entities:36, Edges:19",
-        "prev_cid": "fc4b1c1e747aa10b1f2b907bc410e01f98a0457144aecd4901aa7a9bce383757c9cb3a54a22504335aa668d0fa70895ede6a54081e27e646e98b6415a54659b4"
+        "generation": "F4_FRACTAL_MITOSIS_NEXUS",
+        "generation_epoch": 56,
+        "architecture": "Nexus04_Recursive_Mitosis",
+        "prev_cid": "ee1660964ddf01d83653d74f1e73a0a752e0c7e5af590dfb90b846ce5c7190b13ad01e193774d6344e5b5b7596131ba706941825a0fa40fa9803fe2ce412dbe5"
     },
-    "generation_epoch": 55,
-    "timestamp": 1792052144,
-    "decision": 0.5936,
+    "generation_epoch": 56,
+    "timestamp": 1792066438,
+    "decision": 0.459,
     "command_pulse": [
-        0.5936,
-        0.4064
+        0.459,
+        0.541
     ],
     "features": [
-        0.5936,
-        0.4064
+        0.459,
+        0.541
     ],
     "directed_commands": {
         "retina": {
             "action": "adjust_focus",
-            "sensitivity": 0.8904,
-            "attention_gate": "high"
+            "sensitivity": 0.6885,
+            "attention_gate": "low"
         },
         "motor": {
             "action": "contract_or_relax",
             "torque_pulse": [
-                0.5936,
-                0.4064
+                0.459,
+                0.541
             ],
-            "intensity": 0.1872
+            "intensity": 0.082
         },
         "monad": {
             "action": "dialectical_synthesis",
-            "bias_shift": 0.0936
+            "bias_shift": -0.041
         }
     },
     "gossip_network": [
@@ -54,5 +53,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "ee1660964ddf01d83653d74f1e73a0a752e0c7e5af590dfb90b846ce5c7190b13ad01e193774d6344e5b5b7596131ba706941825a0fa40fa9803fe2ce412dbe5"
+    "quantum_cid": "1012d92354db7bb2ab7fa73e9f3fe1e89c6b367ae0557475c9397f7cf68388ec1d76cb89896d7ad490f20f5c58fa8255751e60cbd798eb62955d200ec5cd4257"
 }
