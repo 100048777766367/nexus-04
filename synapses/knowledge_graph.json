@@ -65,7 +65,11 @@
         "Handling Proposals:",
         "Haru",
         "Haru Japanese",
-        "for the"
+        "for the",
+        "Serious",
+        "Serious Sweet",
+        "Kennedy's",
+        "novel and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -102,6 +106,8 @@
         "Spider!: --[spider]--> 1991 British",
         "Committee --[for]--> Handling Proposals:",
         "Haru --[(actress):]--> Haru Japanese",
-        "She --[known]--> for the"
+        "She --[known]--> for the",
+        "Serious --[sweet:]--> Serious Sweet",
+        "Kennedy's --[8th]--> novel and"
     ]
 }
