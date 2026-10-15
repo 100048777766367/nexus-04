@@ -97,7 +97,9 @@
         "When",
         "Heath Dreams",
         "Port",
-        "The Port"
+        "The Port",
+        "André",
+        "Stadion: André"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -150,6 +152,7 @@
         "Jake --[griffin:]--> Jacob",
         "Griffin --[american]--> professional stock",
         "When --[the]--> Heath Dreams",
-        "Port --[shëngjin:]--> The Port"
+        "Port --[shëngjin:]--> The Port",
+        "André --[kamperveen]--> Stadion: André"
     ]
 }
