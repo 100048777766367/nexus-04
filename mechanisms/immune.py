@@ -18,8 +18,7 @@ class ImmuneMechanism(BaseMechanism):
             except Exception: pass
 
         for peer in context.get("peers", []):
-            if peer not in trust_matrix:
-                trust_matrix[peer] = 0.7
+            if peer not in trust_matrix: trust_matrix[peer] = 0.7
 
         if not harvested:
             context["trust_matrix"] = trust_matrix
