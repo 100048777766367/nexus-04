@@ -79,7 +79,9 @@
         "Most",
         "Are Losers:",
         "County",
-        "The County"
+        "The County",
+        "Alfafar:",
+        "municipality the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -123,6 +125,7 @@
         "Phenix --[city,]--> Alabama: Phenix",
         "State --[alabama,]--> and the",
         "Most --[guys]--> Are Losers:",
-        "County --[razès:]--> The County"
+        "County --[razès:]--> The County",
+        "Alfafar: --[alfafar]--> municipality the"
     ]
 }
