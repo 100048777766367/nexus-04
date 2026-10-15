@@ -1,6 +1,7 @@
 import json
 
 class UniversalAdapter:
+    """Tự động chuẩn hóa mọi gói tin từ các thế hệ trong hệ sinh thái"""
     @staticmethod
     def parse_packet(raw_text):
         try:
