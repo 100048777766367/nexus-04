@@ -37,7 +37,9 @@
         "She",
         "known former",
         "Showalter:",
-        "Baltzell Showalter"
+        "Baltzell Showalter",
+        "Batalha",
+        "The Monastery"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -59,6 +61,7 @@
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
-        "Showalter: --[joseph]--> Baltzell Showalter"
+        "Showalter: --[joseph]--> Baltzell Showalter",
+        "Batalha --[monastery:]--> The Monastery"
     ]
 }
