@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kristen",
-        "Kristen Elise",
         "Gleicheniales:",
         "order ferns",
         "The",
@@ -99,7 +97,9 @@
         "Responsible",
         "End the",
         "Bakhtiyor",
-        "Bakhtiyor Fazilov"
+        "Bakhtiyor Fazilov",
+        "Bellevue-la-montagne:",
+        "commune the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -156,6 +156,7 @@
         "André --[kamperveen]--> Stadion: André",
         "Ebenezer --[maxwell]--> House: The",
         "Responsible --[plan]--> End the",
-        "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov"
+        "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
+        "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the"
     ]
 }
