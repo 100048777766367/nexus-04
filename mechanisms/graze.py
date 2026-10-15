@@ -26,15 +26,15 @@ class GrazeMechanism(BaseMechanism):
         if not wisdom_text:
             try:
                 req = urllib.request.Request("https://en.wikipedia.org/api/rest_v1/page/random/summary", 
-                                             headers={"User-Agent": "Nexus03-Autogenic-Node"})
-                with urllib.request.urlopen(req, timeout=5) as resp:
+                                             headers={"User-Agent": "Nexus04-Fractal-Node"})
+                with urllib.request.urlopen(req, timeout=4) as resp:
                     d = json.loads(resp.read().decode())
                     wisdom_text = f"{d.get('title')}: {d.get('extract')[:120]}"
-                    print(f"🌐 [GRAZE] Wikipedia: {d.get('title')}")
+                    print(f"🌐 [GRAZE] Cào Wikipedia: {d.get('title')}")
             except Exception: pass
 
         if not wisdom_text:
-            wisdom_text = "Nexus-03: Trí tuệ lai biểu tượng và tự sinh hóa mã nguồn"
+            wisdom_text = "Nexus-04: Phân bào đệ quy và nhà tưởng niệm phả hệ bất tử"
 
         context["wisdom_text"] = wisdom_text
         context["wisdom_vector"] = LinguisticCell.embed_text(wisdom_text)
