@@ -83,7 +83,9 @@
         "Alfafar:",
         "municipality the",
         "Riders",
-        "Stars: Riders"
+        "Stars: Riders",
+        "Large-nosed",
+        "turtle: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -129,6 +131,7 @@
         "Most --[guys]--> Are Losers:",
         "County --[razès:]--> The County",
         "Alfafar: --[alfafar]--> municipality the",
-        "Riders --[the]--> Stars: Riders"
+        "Riders --[the]--> Stars: Riders",
+        "Large-nosed --[wood]--> turtle: The"
     ]
 }
