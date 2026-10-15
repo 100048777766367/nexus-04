@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sukkwan",
-        "(film): Sukkwan",
         "Kristen",
         "Kristen Elise",
         "Gleicheniales:",
@@ -99,7 +97,9 @@
         "Ebenezer",
         "House: The",
         "Responsible",
-        "End the"
+        "End the",
+        "Bakhtiyor",
+        "Bakhtiyor Fazilov"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -155,6 +155,7 @@
         "Port --[shëngjin:]--> The Port",
         "André --[kamperveen]--> Stadion: André",
         "Ebenezer --[maxwell]--> House: The",
-        "Responsible --[plan]--> End the"
+        "Responsible --[plan]--> End the",
+        "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov"
     ]
 }
