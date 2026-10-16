@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Anna",
-        "Anna Hvoslef",
         "One",
         "first female",
         "Middle Ages",
@@ -99,7 +97,9 @@
         "Rider",
         "men's basketball:",
         "Night",
-        "Dream: Night"
+        "Dream: Night",
+        "Downtown",
+        "Downtown Summerlin"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -159,6 +159,7 @@
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
         "Rider --[broncs]--> men's basketball:",
-        "Night --[and]--> Dream: Night"
+        "Night --[and]--> Dream: Night",
+        "Downtown --[summerlin:]--> Downtown Summerlin"
     ]
 }
