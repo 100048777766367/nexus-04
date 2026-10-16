@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "has spore",
         "Anna",
         "Anna Hvoslef",
         "One",
@@ -99,7 +97,9 @@
         "Bellevue-la-montagne:",
         "commune the",
         "Rider",
-        "men's basketball:"
+        "men's basketball:",
+        "Night",
+        "Dream: Night"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -158,6 +158,7 @@
         "Responsible --[plan]--> End the",
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
-        "Rider --[broncs]--> men's basketball:"
+        "Rider --[broncs]--> men's basketball:",
+        "Night --[and]--> Dream: Night"
     ]
 }
