@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "One",
-        "first female",
-        "Middle Ages",
         "Panzergrenadier",
         "Großdeutschland: The",
         "Lyckeby:",
@@ -99,7 +96,10 @@
         "Night",
         "Dream: Night",
         "Downtown",
-        "Downtown Summerlin"
+        "Downtown Summerlin",
+        "Khalan",
+        "Khalan Laborn",
+        "played for"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -160,6 +160,8 @@
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
         "Rider --[broncs]--> men's basketball:",
         "Night --[and]--> Dream: Night",
-        "Downtown --[summerlin:]--> Downtown Summerlin"
+        "Downtown --[summerlin:]--> Downtown Summerlin",
+        "Khalan --[laborn:]--> Khalan Laborn",
+        "Most --[recently]--> played for"
     ]
 }
