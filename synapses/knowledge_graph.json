@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gleicheniales:",
-        "order ferns",
         "The",
         "has spore",
         "Anna",
@@ -99,7 +97,9 @@
         "Bakhtiyor",
         "Bakhtiyor Fazilov",
         "Bellevue-la-montagne:",
-        "commune the"
+        "commune the",
+        "Rider",
+        "men's basketball:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -157,6 +157,7 @@
         "Ebenezer --[maxwell]--> House: The",
         "Responsible --[plan]--> End the",
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
-        "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the"
+        "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
+        "Rider --[broncs]--> men's basketball:"
     ]
 }
