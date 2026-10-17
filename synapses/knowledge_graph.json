@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ferwerderadiel:",
-        "former municipality",
-        "Its",
         "name West",
         "Leticia",
         "Leticia Ann",
@@ -99,7 +96,10 @@
         "Diolcus",
         "Diolcus irroratus",
         "Found",
-        "Caribbean Sea"
+        "Caribbean Sea",
+        "Archdiocese",
+        "The Archdiocese",
+        "the elev"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -167,6 +167,8 @@
         "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I",
         "Frank --[herbert's]--> Dune (video",
         "Diolcus --[irroratus:]--> Diolcus irroratus",
-        "Found --[the]--> Caribbean Sea"
+        "Found --[the]--> Caribbean Sea",
+        "Archdiocese --[oristano:]--> The Archdiocese",
+        "Was --[created]--> the elev"
     ]
 }
