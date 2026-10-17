@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mariko",
-        "Mariko Sanjo",
         "Sir",
         "Comes Lunch:",
         "Wodehouse,",
@@ -99,7 +97,9 @@
         "Zekreet",
         "The Zekreet",
         "Pk-62",
-        "PK-62 Charsadda-I"
+        "PK-62 Charsadda-I",
+        "Frank",
+        "Dune (video"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -164,6 +164,7 @@
         "Khalan --[laborn:]--> Khalan Laborn",
         "Most --[recently]--> played for",
         "Zekreet --[peninsula:]--> The Zekreet",
-        "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I"
+        "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I",
+        "Frank --[herbert's]--> Dune (video"
     ]
 }
