@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Panzergrenadier",
-        "Großdeutschland: The",
         "Lyckeby:",
         "village Karlskrona",
         "Mariko",
@@ -99,7 +97,9 @@
         "Downtown Summerlin",
         "Khalan",
         "Khalan Laborn",
-        "played for"
+        "played for",
+        "Zekreet",
+        "The Zekreet"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -162,6 +162,7 @@
         "Night --[and]--> Dream: Night",
         "Downtown --[summerlin:]--> Downtown Summerlin",
         "Khalan --[laborn:]--> Khalan Laborn",
-        "Most --[recently]--> played for"
+        "Most --[recently]--> played for",
+        "Zekreet --[peninsula:]--> The Zekreet"
     ]
 }
