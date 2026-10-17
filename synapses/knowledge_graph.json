@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lyckeby:",
-        "village Karlskrona",
         "Mariko",
         "Mariko Sanjo",
         "Sir",
@@ -99,7 +97,9 @@
         "Khalan Laborn",
         "played for",
         "Zekreet",
-        "The Zekreet"
+        "The Zekreet",
+        "Pk-62",
+        "PK-62 Charsadda-I"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -163,6 +163,7 @@
         "Downtown --[summerlin:]--> Downtown Summerlin",
         "Khalan --[laborn:]--> Khalan Laborn",
         "Most --[recently]--> played for",
-        "Zekreet --[peninsula:]--> The Zekreet"
+        "Zekreet --[peninsula:]--> The Zekreet",
+        "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I"
     ]
 }
