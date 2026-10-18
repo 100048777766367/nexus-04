@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Leticia Ann",
-        "American journalist",
-        "She",
-        "known former",
         "Showalter:",
         "Baltzell Showalter",
         "Batalha",
@@ -99,7 +95,11 @@
         "The Archdiocese",
         "the elev",
         "Jean",
-        "Joseph Jean-Philippe"
+        "Joseph Jean-Philippe",
+        "Even",
+        "Lande: Even",
+        "Served",
+        "the Norwegian"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -170,6 +170,8 @@
         "Found --[the]--> Caribbean Sea",
         "Archdiocese --[oristano:]--> The Archdiocese",
         "Was --[created]--> the elev",
-        "Jean --[gauthier:]--> Joseph Jean-Philippe"
+        "Jean --[gauthier:]--> Joseph Jean-Philippe",
+        "Even --[torkildsen]--> Lande: Even",
+        "Served --[representative]--> the Norwegian"
     ]
 }
