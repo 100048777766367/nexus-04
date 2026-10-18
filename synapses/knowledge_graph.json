@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Batalha",
-        "The Monastery",
-        "Sayed",
-        "Islam: Sayed",
         "Was",
         "general secretary",
         "Patrick",
@@ -99,7 +95,11 @@
         "Served",
         "the Norwegian",
         "Brandon",
-        "Brandon Hurst"
+        "Brandon Hurst",
+        "Pharmacie",
+        "Pharmacie Anglaise,",
+        "Delacre,",
+        "corner building"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -173,6 +173,8 @@
         "Jean --[gauthier:]--> Joseph Jean-Philippe",
         "Even --[torkildsen]--> Lande: Even",
         "Served --[representative]--> the Norwegian",
-        "Brandon --[hurst:]--> Brandon Hurst"
+        "Brandon --[hurst:]--> Brandon Hurst",
+        "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
+        "Delacre, --[neo-gothic]--> corner building"
     ]
 }
