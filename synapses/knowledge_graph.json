@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Showalter:",
-        "Baltzell Showalter",
         "Batalha",
         "The Monastery",
         "Sayed",
@@ -99,7 +97,9 @@
         "Even",
         "Lande: Even",
         "Served",
-        "the Norwegian"
+        "the Norwegian",
+        "Brandon",
+        "Brandon Hurst"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -172,6 +172,7 @@
         "Was --[created]--> the elev",
         "Jean --[gauthier:]--> Joseph Jean-Philippe",
         "Even --[torkildsen]--> Lande: Even",
-        "Served --[representative]--> the Norwegian"
+        "Served --[representative]--> the Norwegian",
+        "Brandon --[hurst:]--> Brandon Hurst"
     ]
 }
