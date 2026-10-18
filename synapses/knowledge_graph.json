@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "name West",
-        "Leticia",
         "Leticia Ann",
         "American journalist",
         "She",
@@ -99,7 +97,9 @@
         "Caribbean Sea",
         "Archdiocese",
         "The Archdiocese",
-        "the elev"
+        "the elev",
+        "Jean",
+        "Joseph Jean-Philippe"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -169,6 +169,7 @@
         "Diolcus --[irroratus:]--> Diolcus irroratus",
         "Found --[the]--> Caribbean Sea",
         "Archdiocese --[oristano:]--> The Archdiocese",
-        "Was --[created]--> the elev"
+        "Was --[created]--> the elev",
+        "Jean --[gauthier:]--> Joseph Jean-Philippe"
     ]
 }
