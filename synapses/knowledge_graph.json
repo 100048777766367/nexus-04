@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Anderson",
-        "District (Anderson,",
-        "cotton being",
-        "Rara",
         "rara was",
         "Operated",
         "December 2011",
@@ -99,7 +95,11 @@
         "Dance",
         "City: Dance",
         "Completed",
-        "the artwork"
+        "the artwork",
+        "Namibia",
+        "Ground: Namibia",
+        "The",
+        "cricket Namibia"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -177,6 +177,8 @@
         "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
         "Delacre, --[neo-gothic]--> corner building",
         "Dance --[the]--> City: Dance",
-        "Completed --[1883,]--> the artwork"
+        "Completed --[1883,]--> the artwork",
+        "Namibia --[cricket]--> Ground: Namibia",
+        "The --[headquarters]--> cricket Namibia"
     ]
 }
