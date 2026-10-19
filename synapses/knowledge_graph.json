@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "general secretary",
-        "Patrick",
-        "Three-Decker: The",
         "Anderson",
         "District (Anderson,",
         "cotton being",
@@ -99,7 +95,11 @@
         "Pharmacie",
         "Pharmacie Anglaise,",
         "Delacre,",
-        "corner building"
+        "corner building",
+        "Dance",
+        "City: Dance",
+        "Completed",
+        "the artwork"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -175,6 +175,8 @@
         "Served --[representative]--> the Norwegian",
         "Brandon --[hurst:]--> Brandon Hurst",
         "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
-        "Delacre, --[neo-gothic]--> corner building"
+        "Delacre, --[neo-gothic]--> corner building",
+        "Dance --[the]--> City: Dance",
+        "Completed --[1883,]--> the artwork"
     ]
 }
