@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "December 2011",
-        "Offered",
         "on-deman",
         "Tambaqui:",
         "tambaqui large",
@@ -99,7 +97,9 @@
         "The",
         "cricket Namibia",
         "Meldreth",
-        "station: Meldreth"
+        "station: Meldreth",
+        "Viper",
+        "Flags Great"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -180,6 +180,7 @@
         "Completed --[1883,]--> the artwork",
         "Namibia --[cricket]--> Ground: Namibia",
         "The --[headquarters]--> cricket Namibia",
-        "Meldreth --[railway]--> station: Meldreth"
+        "Meldreth --[railway]--> station: Meldreth",
+        "Viper --[(six]--> Flags Great"
     ]
 }
