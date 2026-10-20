@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "South America,",
-        "Spider!:",
         "1991 British",
         "Committee",
         "Handling Proposals:",
@@ -99,7 +97,9 @@
         "Con",
         "(Salvador album):",
         "Released",
-        "won the"
+        "won the",
+        "Devin",
+        "Devin Douglas"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -183,6 +183,7 @@
         "Meldreth --[railway]--> station: Meldreth",
         "Viper --[(six]--> Flags Great",
         "Con --[poder]--> (Salvador album):",
-        "Released --[2003,]--> won the"
+        "Released --[2003,]--> won the",
+        "Devin --[mesoraco:]--> Devin Douglas"
     ]
 }
