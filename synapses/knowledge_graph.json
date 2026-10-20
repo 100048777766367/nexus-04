@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1991 British",
-        "Committee",
         "Handling Proposals:",
         "Haru",
         "Haru Japanese",
@@ -99,7 +97,9 @@
         "Released",
         "won the",
         "Devin",
-        "Devin Douglas"
+        "Devin Douglas",
+        "Tower",
+        "(Pennsylvania): The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -184,6 +184,7 @@
         "Viper --[(six]--> Flags Great",
         "Con --[poder]--> (Salvador album):",
         "Released --[2003,]--> won the",
-        "Devin --[mesoraco:]--> Devin Douglas"
+        "Devin --[mesoraco:]--> Devin Douglas",
+        "Tower --[theater]--> (Pennsylvania): The"
     ]
 }
