@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Serious Sweet",
-        "Kennedy's",
         "novel and",
         "Blas",
         "Admiral Blas",
@@ -99,7 +97,9 @@
         "Gary Cheng",
         "Youth",
         "Museum: The",
-        "Saint-joseph-de-rivière:"
+        "Saint-joseph-de-rivière:",
+        "Saint",
+        "(Zurbarán): Saint"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -188,6 +188,7 @@
         "Tower --[theater]--> (Pennsylvania): The",
         "Cheng --[kai-nam:]--> Gary Cheng",
         "Youth --[pledge]--> Museum: The",
-        "Saint-joseph-de-rivière: --[saint-joseph-de-rivière]--> commune the"
+        "Saint-joseph-de-rivière: --[saint-joseph-de-rivière]--> commune the",
+        "Saint --[serapion]--> (Zurbarán): Saint"
     ]
 }
