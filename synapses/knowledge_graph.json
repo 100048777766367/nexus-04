@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Serious",
         "Serious Sweet",
         "Kennedy's",
         "novel and",
@@ -99,7 +98,8 @@
         "Cheng",
         "Gary Cheng",
         "Youth",
-        "Museum: The"
+        "Museum: The",
+        "Saint-joseph-de-rivière:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -187,6 +187,7 @@
         "Devin --[mesoraco:]--> Devin Douglas",
         "Tower --[theater]--> (Pennsylvania): The",
         "Cheng --[kai-nam:]--> Gary Cheng",
-        "Youth --[pledge]--> Museum: The"
+        "Youth --[pledge]--> Museum: The",
+        "Saint-joseph-de-rivière: --[saint-joseph-de-rivière]--> commune the"
     ]
 }
