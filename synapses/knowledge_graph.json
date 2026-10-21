@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Handling Proposals:",
-        "Haru",
         "Haru Japanese",
         "for the",
         "Serious",
@@ -99,7 +97,9 @@
         "Devin",
         "Devin Douglas",
         "Tower",
-        "(Pennsylvania): The"
+        "(Pennsylvania): The",
+        "Cheng",
+        "Gary Cheng"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -185,6 +185,7 @@
         "Con --[poder]--> (Salvador album):",
         "Released --[2003,]--> won the",
         "Devin --[mesoraco:]--> Devin Douglas",
-        "Tower --[theater]--> (Pennsylvania): The"
+        "Tower --[theater]--> (Pennsylvania): The",
+        "Cheng --[kai-nam:]--> Gary Cheng"
     ]
 }
