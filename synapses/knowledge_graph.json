@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Haru Japanese",
-        "for the",
         "Serious",
         "Serious Sweet",
         "Kennedy's",
@@ -99,7 +97,9 @@
         "Tower",
         "(Pennsylvania): The",
         "Cheng",
-        "Gary Cheng"
+        "Gary Cheng",
+        "Youth",
+        "Museum: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -186,6 +186,7 @@
         "Released --[2003,]--> won the",
         "Devin --[mesoraco:]--> Devin Douglas",
         "Tower --[theater]--> (Pennsylvania): The",
-        "Cheng --[kai-nam:]--> Gary Cheng"
+        "Cheng --[kai-nam:]--> Gary Cheng",
+        "Youth --[pledge]--> Museum: The"
     ]
 }
