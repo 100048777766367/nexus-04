@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The County",
-        "Alfafar:",
         "municipality the",
         "Riders",
         "Stars: Riders",
@@ -99,7 +97,9 @@
         "Økaw",
         "ØKAW Arkitekter",
         "2017,",
-        "are Tom"
+        "are Tom",
+        "Hms",
+        "(1899): HMS"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -194,6 +194,7 @@
         "Marco --[albarello:]--> Marco Albarello",
         "Was --[born]--> Aosta",
         "Økaw --[arkitekter:]--> ØKAW Arkitekter",
-        "2017, --[partners]--> are Tom"
+        "2017, --[partners]--> are Tom",
+        "Hms --[falcon]--> (1899): HMS"
     ]
 }
