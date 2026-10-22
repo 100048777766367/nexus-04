@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "novel and",
-        "Blas",
         "Admiral Blas",
         "Phenix",
         "Alabama: Phenix",
@@ -99,7 +97,9 @@
         "Museum: The",
         "Saint-joseph-de-rivière:",
         "Saint",
-        "(Zurbarán): Saint"
+        "(Zurbarán): Saint",
+        "Nexus-04:",
+        "bào quy"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -189,6 +189,7 @@
         "Cheng --[kai-nam:]--> Gary Cheng",
         "Youth --[pledge]--> Museum: The",
         "Saint-joseph-de-rivière: --[saint-joseph-de-rivière]--> commune the",
-        "Saint --[serapion]--> (Zurbarán): Saint"
+        "Saint --[serapion]--> (Zurbarán): Saint",
+        "Nexus-04: --[phân]--> bào quy"
     ]
 }
