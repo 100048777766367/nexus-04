@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "and the",
-        "Most",
-        "Are Losers:",
-        "County",
         "The County",
         "Alfafar:",
         "municipality the",
@@ -99,7 +95,11 @@
         "Marco",
         "Marco Albarello",
         "Was",
-        "Aosta"
+        "Aosta",
+        "Økaw",
+        "ØKAW Arkitekter",
+        "2017,",
+        "are Tom"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -192,6 +192,8 @@
         "Saint --[serapion]--> (Zurbarán): Saint",
         "Nexus-04: --[phân]--> bào quy",
         "Marco --[albarello:]--> Marco Albarello",
-        "Was --[born]--> Aosta"
+        "Was --[born]--> Aosta",
+        "Økaw --[arkitekter:]--> ØKAW Arkitekter",
+        "2017, --[partners]--> are Tom"
     ]
 }
