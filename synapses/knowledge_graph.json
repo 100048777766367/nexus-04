@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stars: Riders",
-        "Large-nosed",
         "turtle: The",
         "Carsten",
         "Carsten Schneider",
@@ -99,7 +97,9 @@
         "Hms",
         "(1899): HMS",
         "Tormenta:",
-        "Brazilian fantasy"
+        "Brazilian fantasy",
+        "Burly:",
+        "rural locality"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -196,6 +196,7 @@
         "Økaw --[arkitekter:]--> ØKAW Arkitekter",
         "2017, --[partners]--> are Tom",
         "Hms --[falcon]--> (1899): HMS",
-        "Tormenta: --[tormenta]--> Brazilian fantasy"
+        "Tormenta: --[tormenta]--> Brazilian fantasy",
+        "Burly: --[burly]--> rural locality"
     ]
 }
