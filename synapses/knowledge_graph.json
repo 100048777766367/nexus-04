@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "turtle: The",
-        "Carsten",
         "Carsten Schneider",
         "Sloughhouse",
         "Sloughhouse American",
@@ -99,7 +97,9 @@
         "Tormenta:",
         "Brazilian fantasy",
         "Burly:",
-        "rural locality"
+        "rural locality",
+        "Point",
+        "(Passmore): Point"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -197,6 +197,7 @@
         "2017, --[partners]--> are Tom",
         "Hms --[falcon]--> (1899): HMS",
         "Tormenta: --[tormenta]--> Brazilian fantasy",
-        "Burly: --[burly]--> rural locality"
+        "Burly: --[burly]--> rural locality",
+        "Point --[view]--> (Passmore): Point"
     ]
 }
