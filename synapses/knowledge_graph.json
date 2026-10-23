@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Carsten Schneider",
-        "Sloughhouse",
         "Sloughhouse American",
         "Jake",
         "Jacob",
@@ -99,7 +97,9 @@
         "Burly:",
         "rural locality",
         "Point",
-        "(Passmore): Point"
+        "(Passmore): Point",
+        "Andrzej",
+        "Andrzej Cwojdziński"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -198,6 +198,7 @@
         "Hms --[falcon]--> (1899): HMS",
         "Tormenta: --[tormenta]--> Brazilian fantasy",
         "Burly: --[burly]--> rural locality",
-        "Point --[view]--> (Passmore): Point"
+        "Point --[view]--> (Passmore): Point",
+        "Andrzej --[cwojdziński:]--> Andrzej Cwojdziński"
     ]
 }
