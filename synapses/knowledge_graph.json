@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The Port",
-        "André",
-        "Stadion: André",
         "Ebenezer",
         "House: The",
         "Responsible",
@@ -99,7 +96,10 @@
         "Justice",
         "Her Brothers:",
         "Novelsis:",
-        "genus beetles"
+        "genus beetles",
+        "Janline:",
+        "(ジャンライン) Mahjong",
+        "was released"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -203,6 +203,8 @@
         "Das --[currently]--> professor Computer",
         "Clair --[endowed]--> Chair Missouri",
         "Justice --[and]--> Her Brothers:",
-        "Novelsis: --[novelsis]--> genus beetles"
+        "Novelsis: --[novelsis]--> genus beetles",
+        "Janline: --[janline]--> (ジャンライン) Mahjong",
+        "The --[game]--> was released"
     ]
 }
