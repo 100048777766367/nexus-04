@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "professional stock",
-        "When",
         "Heath Dreams",
         "Port",
         "The Port",
@@ -99,7 +97,9 @@
         "Das",
         "professor Computer",
         "Clair",
-        "Chair Missouri"
+        "Chair Missouri",
+        "Justice",
+        "Her Brothers:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -201,6 +201,7 @@
         "Point --[view]--> (Passmore): Point",
         "Andrzej --[cwojdziński:]--> Andrzej Cwojdziński",
         "Das --[currently]--> professor Computer",
-        "Clair --[endowed]--> Chair Missouri"
+        "Clair --[endowed]--> Chair Missouri",
+        "Justice --[and]--> Her Brothers:"
     ]
 }
