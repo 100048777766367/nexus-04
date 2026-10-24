@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sloughhouse American",
-        "Jake",
-        "Jacob",
-        "Griffin",
         "professional stock",
         "When",
         "Heath Dreams",
@@ -99,7 +95,11 @@
         "Point",
         "(Passmore): Point",
         "Andrzej",
-        "Andrzej Cwojdziński"
+        "Andrzej Cwojdziński",
+        "Das",
+        "professor Computer",
+        "Clair",
+        "Chair Missouri"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -199,6 +199,8 @@
         "Tormenta: --[tormenta]--> Brazilian fantasy",
         "Burly: --[burly]--> rural locality",
         "Point --[view]--> (Passmore): Point",
-        "Andrzej --[cwojdziński:]--> Andrzej Cwojdziński"
+        "Andrzej --[cwojdziński:]--> Andrzej Cwojdziński",
+        "Das --[currently]--> professor Computer",
+        "Clair --[endowed]--> Chair Missouri"
     ]
 }
