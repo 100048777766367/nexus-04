@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ebenezer",
-        "House: The",
         "Responsible",
         "End the",
         "Bakhtiyor",
@@ -99,7 +97,9 @@
         "genus beetles",
         "Janline:",
         "(ジャンライン) Mahjong",
-        "was released"
+        "was released",
+        "Bela,",
+        "Bela small"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -205,6 +205,7 @@
         "Justice --[and]--> Her Brothers:",
         "Novelsis: --[novelsis]--> genus beetles",
         "Janline: --[janline]--> (ジャンライン) Mahjong",
-        "The --[game]--> was released"
+        "The --[game]--> was released",
+        "Bela, --[ajdovščina:]--> Bela small"
     ]
 }
