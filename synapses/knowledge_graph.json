@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Responsible",
-        "End the",
         "Bakhtiyor",
         "Bakhtiyor Fazilov",
         "Bellevue-la-montagne:",
@@ -99,7 +97,9 @@
         "(ジャンライン) Mahjong",
         "was released",
         "Bela,",
-        "Bela small"
+        "Bela small",
+        "Peter",
+        "(physician): Peter"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -206,6 +206,7 @@
         "Novelsis: --[novelsis]--> genus beetles",
         "Janline: --[janline]--> (ジャンライン) Mahjong",
         "The --[game]--> was released",
-        "Bela, --[ajdovščina:]--> Bela small"
+        "Bela, --[ajdovščina:]--> Bela small",
+        "Peter --[parker]--> (physician): Peter"
     ]
 }
