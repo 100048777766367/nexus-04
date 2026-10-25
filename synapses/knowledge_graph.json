@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rider",
-        "men's basketball:",
         "Night",
         "Dream: Night",
         "Downtown",
@@ -99,7 +97,9 @@
         "Jesus",
         "nostra salus:",
         "First",
-        "have"
+        "have",
+        "Mikołaj",
+        "Mikołaj Rej"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -209,6 +209,7 @@
         "Bela, --[ajdovščina:]--> Bela small",
         "Peter --[parker]--> (physician): Peter",
         "Jesus --[christus]--> nostra salus:",
-        "First --[confirmed]--> have"
+        "First --[confirmed]--> have",
+        "Mikołaj --[rej:]--> Mikołaj Rej"
     ]
 }
