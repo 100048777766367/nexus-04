@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Bakhtiyor",
-        "Bakhtiyor Fazilov",
-        "Bellevue-la-montagne:",
-        "commune the",
         "Rider",
         "men's basketball:",
         "Night",
@@ -99,7 +95,11 @@
         "Bela,",
         "Bela small",
         "Peter",
-        "(physician): Peter"
+        "(physician): Peter",
+        "Jesus",
+        "nostra salus:",
+        "First",
+        "have"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -207,6 +207,8 @@
         "Janline: --[janline]--> (ジャンライン) Mahjong",
         "The --[game]--> was released",
         "Bela, --[ajdovščina:]--> Bela small",
-        "Peter --[parker]--> (physician): Peter"
+        "Peter --[parker]--> (physician): Peter",
+        "Jesus --[christus]--> nostra salus:",
+        "First --[confirmed]--> have"
     ]
 }
