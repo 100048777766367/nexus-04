@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Khalan",
-        "Khalan Laborn",
-        "played for",
-        "Zekreet",
         "The Zekreet",
         "Pk-62",
         "PK-62 Charsadda-I",
@@ -99,7 +95,11 @@
         "Herbie",
         "William John",
         "San",
-        "Cremona: San"
+        "Cremona: San",
+        "Marksburg:",
+        "Marksburg castle",
+        "One",
+        "principal sites"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -212,6 +212,8 @@
         "First --[confirmed]--> have",
         "Mikołaj --[rej:]--> Mikołaj Rej",
         "Herbie --[arthur:]--> William John",
-        "San --[michele,]--> Cremona: San"
+        "San --[michele,]--> Cremona: San",
+        "Marksburg: --[the]--> Marksburg castle",
+        "One --[the]--> principal sites"
     ]
 }
