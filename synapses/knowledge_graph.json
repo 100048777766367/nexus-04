@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Night",
-        "Dream: Night",
         "Downtown",
         "Downtown Summerlin",
         "Khalan",
@@ -99,7 +97,9 @@
         "First",
         "have",
         "Mikołaj",
-        "Mikołaj Rej"
+        "Mikołaj Rej",
+        "Herbie",
+        "William John"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -210,6 +210,7 @@
         "Peter --[parker]--> (physician): Peter",
         "Jesus --[christus]--> nostra salus:",
         "First --[confirmed]--> have",
-        "Mikołaj --[rej:]--> Mikołaj Rej"
+        "Mikołaj --[rej:]--> Mikołaj Rej",
+        "Herbie --[arthur:]--> William John"
     ]
 }
