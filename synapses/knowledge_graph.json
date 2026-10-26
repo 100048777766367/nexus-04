@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Downtown",
-        "Downtown Summerlin",
         "Khalan",
         "Khalan Laborn",
         "played for",
@@ -99,7 +97,9 @@
         "Mikołaj",
         "Mikołaj Rej",
         "Herbie",
-        "William John"
+        "William John",
+        "San",
+        "Cremona: San"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -211,6 +211,7 @@
         "Jesus --[christus]--> nostra salus:",
         "First --[confirmed]--> have",
         "Mikołaj --[rej:]--> Mikołaj Rej",
-        "Herbie --[arthur:]--> William John"
+        "Herbie --[arthur:]--> William John",
+        "San --[michele,]--> Cremona: San"
     ]
 }
