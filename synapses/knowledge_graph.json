@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Diolcus irroratus",
-        "Found",
         "Caribbean Sea",
         "Archdiocese",
         "The Archdiocese",
@@ -99,7 +97,9 @@
         "Karl",
         "(chemist): Karl",
         "1935",
-        "method determine"
+        "method determine",
+        "Coledale",
+        "Coledale Beck"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -217,6 +217,7 @@
         "One --[the]--> principal sites",
         "Jute --[corporation]--> India: The",
         "Karl --[fischer]--> (chemist): Karl",
-        "1935 --[published]--> method determine"
+        "1935 --[published]--> method determine",
+        "Coledale --[beck:]--> Coledale Beck"
     ]
 }
