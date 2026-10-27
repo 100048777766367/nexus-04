@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "PK-62 Charsadda-I",
-        "Frank",
-        "Dune (video",
-        "Diolcus",
         "Diolcus irroratus",
         "Found",
         "Caribbean Sea",
@@ -99,7 +95,11 @@
         "One",
         "principal sites",
         "Jute",
-        "India: The"
+        "India: The",
+        "Karl",
+        "(chemist): Karl",
+        "1935",
+        "method determine"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -215,6 +215,8 @@
         "San --[michele,]--> Cremona: San",
         "Marksburg: --[the]--> Marksburg castle",
         "One --[the]--> principal sites",
-        "Jute --[corporation]--> India: The"
+        "Jute --[corporation]--> India: The",
+        "Karl --[fischer]--> (chemist): Karl",
+        "1935 --[published]--> method determine"
     ]
 }
