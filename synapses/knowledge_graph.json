@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Caribbean Sea",
-        "Archdiocese",
         "The Archdiocese",
         "the elev",
         "Jean",
@@ -99,7 +97,9 @@
         "1935",
         "method determine",
         "Coledale",
-        "Coledale Beck"
+        "Coledale Beck",
+        "Amanita",
+        "Amanita arctica"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -218,6 +218,7 @@
         "Jute --[corporation]--> India: The",
         "Karl --[fischer]--> (chemist): Karl",
         "1935 --[published]--> method determine",
-        "Coledale --[beck:]--> Coledale Beck"
+        "Coledale --[beck:]--> Coledale Beck",
+        "Amanita --[arctica:]--> Amanita arctica"
     ]
 }
