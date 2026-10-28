@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Even",
-        "Lande: Even",
         "Served",
         "the Norwegian",
         "Brandon",
@@ -99,7 +97,9 @@
         "Don",
         "Donald",
         "Guardian",
-        "Republican Party"
+        "Republican Party",
+        "Void",
+        "Void Linux"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -221,6 +221,7 @@
         "Coledale --[beck:]--> Coledale Beck",
         "Amanita --[arctica:]--> Amanita arctica",
         "Don --[guardian:]--> Donald",
-        "Guardian --[american]--> Republican Party"
+        "Guardian --[american]--> Republican Party",
+        "Void --[linux:]--> Void Linux"
     ]
 }
