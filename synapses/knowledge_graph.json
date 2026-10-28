@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "The Archdiocese",
-        "the elev",
-        "Jean",
-        "Joseph Jean-Philippe",
         "Even",
         "Lande: Even",
         "Served",
@@ -99,7 +95,11 @@
         "Coledale",
         "Coledale Beck",
         "Amanita",
-        "Amanita arctica"
+        "Amanita arctica",
+        "Don",
+        "Donald",
+        "Guardian",
+        "Republican Party"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -219,6 +219,8 @@
         "Karl --[fischer]--> (chemist): Karl",
         "1935 --[published]--> method determine",
         "Coledale --[beck:]--> Coledale Beck",
-        "Amanita --[arctica:]--> Amanita arctica"
+        "Amanita --[arctica:]--> Amanita arctica",
+        "Don --[guardian:]--> Donald",
+        "Guardian --[american]--> Republican Party"
     ]
 }
