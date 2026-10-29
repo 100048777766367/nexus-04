@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Brandon",
-        "Brandon Hurst",
         "Pharmacie",
         "Pharmacie Anglaise,",
         "Delacre,",
@@ -99,7 +97,9 @@
         "Void",
         "Void Linux",
         "Luteusin",
-        "azaphilone monoamine"
+        "azaphilone monoamine",
+        "Millfield:",
+        "public school"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -223,6 +223,7 @@
         "Don --[guardian:]--> Donald",
         "Guardian --[american]--> Republican Party",
         "Void --[linux:]--> Void Linux",
-        "Luteusin --[luteusin]--> azaphilone monoamine"
+        "Luteusin --[luteusin]--> azaphilone monoamine",
+        "Millfield: --[millfield]--> public school"
     ]
 }
