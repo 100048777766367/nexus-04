@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Pharmacie",
-        "Pharmacie Anglaise,",
-        "Delacre,",
-        "corner building",
-        "Dance",
-        "City: Dance",
         "Completed",
         "the artwork",
         "Namibia",
@@ -99,7 +93,13 @@
         "Luteusin",
         "azaphilone monoamine",
         "Millfield:",
-        "public school"
+        "public school",
+        "Christian",
+        "Christian Walz",
+        "Walz's",
+        "mainly pop/soul",
+        "When",
+        "Walz attended"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -224,6 +224,9 @@
         "Guardian --[american]--> Republican Party",
         "Void --[linux:]--> Void Linux",
         "Luteusin --[luteusin]--> azaphilone monoamine",
-        "Millfield: --[millfield]--> public school"
+        "Millfield: --[millfield]--> public school",
+        "Christian --[walz:]--> Christian Walz",
+        "Walz's --[music]--> mainly pop/soul",
+        "When --[young]--> Walz attended"
     ]
 }
