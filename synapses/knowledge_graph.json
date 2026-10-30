@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Namibia",
-        "Ground: Namibia",
         "The",
         "cricket Namibia",
         "Meldreth",
@@ -99,7 +97,9 @@
         "When",
         "Walz attended",
         "Himno",
-        "The Anthem"
+        "The Anthem",
+        "Son",
+        "On: Son"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -228,6 +228,7 @@
         "Christian --[walz:]--> Christian Walz",
         "Walz's --[music]--> mainly pop/soul",
         "When --[young]--> Walz attended",
-        "Himno --[aguascalientes:]--> The Anthem"
+        "Himno --[aguascalientes:]--> The Anthem",
+        "Son --[morris]--> On: Son"
     ]
 }
