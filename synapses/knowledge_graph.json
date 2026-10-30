@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Completed",
-        "the artwork",
         "Namibia",
         "Ground: Namibia",
         "The",
@@ -99,7 +97,9 @@
         "Walz's",
         "mainly pop/soul",
         "When",
-        "Walz attended"
+        "Walz attended",
+        "Himno",
+        "The Anthem"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -227,6 +227,7 @@
         "Millfield: --[millfield]--> public school",
         "Christian --[walz:]--> Christian Walz",
         "Walz's --[music]--> mainly pop/soul",
-        "When --[young]--> Walz attended"
+        "When --[young]--> Walz attended",
+        "Himno --[aguascalientes:]--> The Anthem"
     ]
 }
