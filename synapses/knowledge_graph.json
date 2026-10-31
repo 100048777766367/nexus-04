@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Viper",
-        "Flags Great",
-        "Con",
-        "(Salvador album):",
         "Released",
         "won the",
         "Devin",
@@ -99,7 +95,11 @@
         "David",
         "the Richard",
         "Simmons",
-        "Surgery the"
+        "Surgery the",
+        "Pristinamycin",
+        "Pristinamycin IIA",
+        "Member",
+        "streptogramin group"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -231,6 +231,8 @@
         "Himno --[aguascalientes:]--> The Anthem",
         "Son --[morris]--> On: Son",
         "David --[geller]--> the Richard",
-        "Simmons --[professor]--> Surgery the"
+        "Simmons --[professor]--> Surgery the",
+        "Pristinamycin --[iia:]--> Pristinamycin IIA",
+        "Member --[the]--> streptogramin group"
     ]
 }
