@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tower",
-        "(Pennsylvania): The",
         "Cheng",
         "Gary Cheng",
         "Youth",
@@ -99,7 +97,9 @@
         "International",
         "Team: The",
         "Multicanal",
-        "Multicanal was"
+        "Multicanal was",
+        "Rainbow",
+        "Trail: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -235,6 +235,7 @@
         "Pristinamycin --[iia:]--> Pristinamycin IIA",
         "Member --[the]--> streptogramin group",
         "International --[monitoring]--> Team: The",
-        "Multicanal --[(argentina):]--> Multicanal was"
+        "Multicanal --[(argentina):]--> Multicanal was",
+        "Rainbow --[falls]--> Trail: The"
     ]
 }
