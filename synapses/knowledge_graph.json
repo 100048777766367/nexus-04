@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Devin",
-        "Devin Douglas",
         "Tower",
         "(Pennsylvania): The",
         "Cheng",
@@ -99,7 +97,9 @@
         "Member",
         "streptogramin group",
         "International",
-        "Team: The"
+        "Team: The",
+        "Multicanal",
+        "Multicanal was"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -234,6 +234,7 @@
         "Simmons --[professor]--> Surgery the",
         "Pristinamycin --[iia:]--> Pristinamycin IIA",
         "Member --[the]--> streptogramin group",
-        "International --[monitoring]--> Team: The"
+        "International --[monitoring]--> Team: The",
+        "Multicanal --[(argentina):]--> Multicanal was"
     ]
 }
