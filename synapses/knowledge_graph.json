@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Cheng",
-        "Gary Cheng",
-        "Youth",
-        "Museum: The",
         "Saint-joseph-de-rivière:",
         "Saint",
         "(Zurbarán): Saint",
@@ -99,7 +95,11 @@
         "Multicanal",
         "Multicanal was",
         "Rainbow",
-        "Trail: The"
+        "Trail: The",
+        "Chen",
+        "Chen Bijun",
+        "Born",
+        "prominent merchant"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -236,6 +236,8 @@
         "Member --[the]--> streptogramin group",
         "International --[monitoring]--> Team: The",
         "Multicanal --[(argentina):]--> Multicanal was",
-        "Rainbow --[falls]--> Trail: The"
+        "Rainbow --[falls]--> Trail: The",
+        "Chen --[bijun:]--> Chen Bijun",
+        "Born --[into]--> prominent merchant"
     ]
 }
