@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Saint-joseph-de-rivière:",
-        "Saint",
         "(Zurbarán): Saint",
         "Nexus-04:",
         "bào quy",
@@ -99,7 +97,9 @@
         "Chen",
         "Chen Bijun",
         "Born",
-        "prominent merchant"
+        "prominent merchant",
+        "2025",
+        "Marathon: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -238,6 +238,7 @@
         "Multicanal --[(argentina):]--> Multicanal was",
         "Rainbow --[falls]--> Trail: The",
         "Chen --[bijun:]--> Chen Bijun",
-        "Born --[into]--> prominent merchant"
+        "Born --[into]--> prominent merchant",
+        "2025 --[boston]--> Marathon: The"
     ]
 }
