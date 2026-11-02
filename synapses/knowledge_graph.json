@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "bào quy",
-        "Marco",
-        "Marco Albarello",
         "Was",
         "Aosta",
         "Økaw",
@@ -99,7 +96,10 @@
         "2025",
         "Marathon: The",
         "Non-metropolitan",
-        "Non-metropolitan districts,"
+        "Non-metropolitan districts,",
+        "Blitzkid:",
+        "American horror",
+        "leading proponents"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -240,6 +240,8 @@
         "Chen --[bijun:]--> Chen Bijun",
         "Born --[into]--> prominent merchant",
         "2025 --[boston]--> Marathon: The",
-        "Non-metropolitan --[district:]--> Non-metropolitan districts,"
+        "Non-metropolitan --[district:]--> Non-metropolitan districts,",
+        "Blitzkid: --[blitzkid]--> American horror",
+        "One --[the]--> leading proponents"
     ]
 }
