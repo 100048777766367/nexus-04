@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "Aosta",
         "Økaw",
         "ØKAW Arkitekter",
         "2017,",
@@ -99,7 +97,9 @@
         "Non-metropolitan districts,",
         "Blitzkid:",
         "American horror",
-        "leading proponents"
+        "leading proponents",
+        "Sklabiná:",
+        "village and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -242,6 +242,7 @@
         "2025 --[boston]--> Marathon: The",
         "Non-metropolitan --[district:]--> Non-metropolitan districts,",
         "Blitzkid: --[blitzkid]--> American horror",
-        "One --[the]--> leading proponents"
+        "One --[the]--> leading proponents",
+        "Sklabiná: --[sklabiná]--> village and"
     ]
 }
