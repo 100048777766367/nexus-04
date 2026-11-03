@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2017,",
-        "are Tom",
         "Hms",
         "(1899): HMS",
         "Tormenta:",
@@ -99,7 +97,9 @@
         "Sklabiná:",
         "village and",
         "Department",
-        "Business, Energy"
+        "Business, Energy",
+        "Fan",
+        "(politician): Fan"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -244,6 +244,7 @@
         "Blitzkid: --[blitzkid]--> American horror",
         "One --[the]--> leading proponents",
         "Sklabiná: --[sklabiná]--> village and",
-        "Department --[for]--> Business, Energy"
+        "Department --[for]--> Business, Energy",
+        "Fan --[yun]--> (politician): Fan"
     ]
 }
