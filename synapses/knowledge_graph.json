@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Økaw",
-        "ØKAW Arkitekter",
         "2017,",
         "are Tom",
         "Hms",
@@ -99,7 +97,9 @@
         "American horror",
         "leading proponents",
         "Sklabiná:",
-        "village and"
+        "village and",
+        "Department",
+        "Business, Energy"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -243,6 +243,7 @@
         "Non-metropolitan --[district:]--> Non-metropolitan districts,",
         "Blitzkid: --[blitzkid]--> American horror",
         "One --[the]--> leading proponents",
-        "Sklabiná: --[sklabiná]--> village and"
+        "Sklabiná: --[sklabiná]--> village and",
+        "Department --[for]--> Business, Energy"
     ]
 }
