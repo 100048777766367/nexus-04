@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hms",
-        "(1899): HMS",
         "Tormenta:",
         "Brazilian fantasy",
         "Burly:",
@@ -99,7 +97,9 @@
         "Department",
         "Business, Energy",
         "Fan",
-        "(politician): Fan"
+        "(politician): Fan",
+        "Robbie",
+        "(footballer): Robert"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -245,6 +245,7 @@
         "One --[the]--> leading proponents",
         "Sklabiná: --[sklabiná]--> village and",
         "Department --[for]--> Business, Energy",
-        "Fan --[yun]--> (politician): Fan"
+        "Fan --[yun]--> (politician): Fan",
+        "Robbie --[russell]--> (footballer): Robert"
     ]
 }
