@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Tormenta:",
-        "Brazilian fantasy",
-        "Burly:",
-        "rural locality",
         "Point",
         "(Passmore): Point",
         "Andrzej",
@@ -99,7 +95,11 @@
         "Fan",
         "(politician): Fan",
         "Robbie",
-        "(footballer): Robert"
+        "(footballer): Robert",
+        "Between",
+        "Worlds album):",
+        "The",
+        "was recorded"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -246,6 +246,8 @@
         "Sklabiná: --[sklabiná]--> village and",
         "Department --[for]--> Business, Energy",
         "Fan --[yun]--> (politician): Fan",
-        "Robbie --[russell]--> (footballer): Robert"
+        "Robbie --[russell]--> (footballer): Robert",
+        "Between --[two]--> Worlds album):",
+        "The --[album]--> was recorded"
     ]
 }
