@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Das",
-        "professor Computer",
         "Clair",
         "Chair Missouri",
         "Justice",
@@ -99,7 +97,9 @@
         "James",
         "(died 1369):",
         "Was",
-        "eldest son"
+        "eldest son",
+        "Pollen",
+        "Pollen 1995"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -250,6 +250,7 @@
         "Between --[two]--> Worlds album):",
         "The --[album]--> was recorded",
         "James --[audley]--> (died 1369):",
-        "Was --[the]--> eldest son"
+        "Was --[the]--> eldest son",
+        "Pollen --[(novel):]--> Pollen 1995"
     ]
 }
