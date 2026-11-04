@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Point",
-        "(Passmore): Point",
-        "Andrzej",
-        "Andrzej Cwojdziński",
         "Das",
         "professor Computer",
         "Clair",
@@ -99,7 +95,11 @@
         "Between",
         "Worlds album):",
         "The",
-        "was recorded"
+        "was recorded",
+        "James",
+        "(died 1369):",
+        "Was",
+        "eldest son"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -248,6 +248,8 @@
         "Fan --[yun]--> (politician): Fan",
         "Robbie --[russell]--> (footballer): Robert",
         "Between --[two]--> Worlds album):",
-        "The --[album]--> was recorded"
+        "The --[album]--> was recorded",
+        "James --[audley]--> (died 1369):",
+        "Was --[the]--> eldest son"
     ]
 }
