@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Clair",
-        "Chair Missouri",
         "Justice",
         "Her Brothers:",
         "Novelsis:",
@@ -99,10 +97,11 @@
         "Was",
         "eldest son",
         "Pollen",
-        "Pollen 1995"
+        "Pollen 1995",
+        "Asclepias",
+        "Asclepias fascicularis"
     ],
     "edges": [
-        "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
@@ -251,6 +250,7 @@
         "The --[album]--> was recorded",
         "James --[audley]--> (died 1369):",
         "Was --[the]--> eldest son",
-        "Pollen --[(novel):]--> Pollen 1995"
+        "Pollen --[(novel):]--> Pollen 1995",
+        "Asclepias --[fascicularis:]--> Asclepias fascicularis"
     ]
 }
