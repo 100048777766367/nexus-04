@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Novelsis:",
-        "genus beetles",
-        "Janline:",
-        "(ジャンライン) Mahjong",
         "was released",
         "Bela,",
         "Bela small",
@@ -99,11 +95,13 @@
         "Asclepias",
         "Asclepias fascicularis",
         "Church",
-        "Lady Kazan,"
+        "Lady Kazan,",
+        "Naval",
+        "Station Queenstown",
+        "Nas",
+        "was"
     ],
     "edges": [
-        "Sukkwan --[island]--> (film): Sukkwan",
-        "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
@@ -251,6 +249,8 @@
         "Was --[the]--> eldest son",
         "Pollen --[(novel):]--> Pollen 1995",
         "Asclepias --[fascicularis:]--> Asclepias fascicularis",
-        "Church --[our]--> Lady Kazan,"
+        "Church --[our]--> Lady Kazan,",
+        "Naval --[air]--> Station Queenstown",
+        "Nas --[queenstown]--> was"
     ]
 }
