@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Justice",
-        "Her Brothers:",
         "Novelsis:",
         "genus beetles",
         "Janline:",
@@ -99,10 +97,11 @@
         "Pollen",
         "Pollen 1995",
         "Asclepias",
-        "Asclepias fascicularis"
+        "Asclepias fascicularis",
+        "Church",
+        "Lady Kazan,"
     ],
     "edges": [
-        "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
@@ -251,6 +250,7 @@
         "James --[audley]--> (died 1369):",
         "Was --[the]--> eldest son",
         "Pollen --[(novel):]--> Pollen 1995",
-        "Asclepias --[fascicularis:]--> Asclepias fascicularis"
+        "Asclepias --[fascicularis:]--> Asclepias fascicularis",
+        "Church --[our]--> Lady Kazan,"
     ]
 }
