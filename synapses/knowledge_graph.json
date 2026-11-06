@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(physician): Peter",
-        "Jesus",
         "nostra salus:",
         "First",
         "have",
@@ -99,10 +97,11 @@
         "Lake",
         "Lake Hawassa",
         "Stan",
-        "Dijck: Stan"
+        "Dijck: Stan",
+        "Furman",
+        "American politician"
     ],
     "edges": [
-        "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
@@ -251,6 +250,7 @@
         "Naval --[air]--> Station Queenstown",
         "Nas --[queenstown]--> was",
         "Lake --[hawassa:]--> Lake Hawassa",
-        "Stan --[van]--> Dijck: Stan"
+        "Stan --[van]--> Dijck: Stan",
+        "Furman --[was]--> American politician"
     ]
 }
