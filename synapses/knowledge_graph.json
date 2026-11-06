@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bela small",
-        "Peter",
         "(physician): Peter",
         "Jesus",
         "nostra salus:",
@@ -99,10 +97,11 @@
         "Nas",
         "was",
         "Lake",
-        "Lake Hawassa"
+        "Lake Hawassa",
+        "Stan",
+        "Dijck: Stan"
     ],
     "edges": [
-        "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
@@ -251,6 +250,7 @@
         "Church --[our]--> Lady Kazan,",
         "Naval --[air]--> Station Queenstown",
         "Nas --[queenstown]--> was",
-        "Lake --[hawassa:]--> Lake Hawassa"
+        "Lake --[hawassa:]--> Lake Hawassa",
+        "Stan --[van]--> Dijck: Stan"
     ]
 }
