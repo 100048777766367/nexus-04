@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was released",
-        "Bela,",
         "Bela small",
         "Peter",
         "(physician): Peter",
@@ -99,10 +97,11 @@
         "Naval",
         "Station Queenstown",
         "Nas",
-        "was"
+        "was",
+        "Lake",
+        "Lake Hawassa"
     ],
     "edges": [
-        "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
@@ -251,6 +250,7 @@
         "Asclepias --[fascicularis:]--> Asclepias fascicularis",
         "Church --[our]--> Lady Kazan,",
         "Naval --[air]--> Station Queenstown",
-        "Nas --[queenstown]--> was"
+        "Nas --[queenstown]--> was",
+        "Lake --[hawassa:]--> Lake Hawassa"
     ]
 }
