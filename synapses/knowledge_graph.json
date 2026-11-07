@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "San",
-        "Cremona: San",
         "Marksburg:",
         "Marksburg castle",
         "One",
@@ -99,10 +97,11 @@
         "Cepeda Mora",
         "Ağcin,",
         "Ağcin village",
-        "had population"
+        "had population",
+        "National",
+        "the United"
     ],
     "edges": [
-        "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
@@ -251,6 +250,7 @@
         "Szczygłowice: --[szczygłowice]--> dzielnica Knurów",
         "Cepeda --[mora:]--> Cepeda Mora",
         "Ağcin, --[adıyaman:]--> Ağcin village",
-        "The --[village]--> had population"
+        "The --[village]--> had population",
+        "National --[parks]--> the United"
     ]
 }
