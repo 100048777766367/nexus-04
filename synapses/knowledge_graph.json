@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "nostra salus:",
-        "First",
         "have",
         "Mikołaj",
         "Mikołaj Rej",
@@ -99,10 +97,11 @@
         "Stan",
         "Dijck: Stan",
         "Furman",
-        "American politician"
+        "American politician",
+        "Szczygłowice:",
+        "dzielnica Knurów"
     ],
     "edges": [
-        "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
@@ -251,6 +250,7 @@
         "Nas --[queenstown]--> was",
         "Lake --[hawassa:]--> Lake Hawassa",
         "Stan --[van]--> Dijck: Stan",
-        "Furman --[was]--> American politician"
+        "Furman --[was]--> American politician",
+        "Szczygłowice: --[szczygłowice]--> dzielnica Knurów"
     ]
 }
