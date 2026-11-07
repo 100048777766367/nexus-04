@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Mikołaj Rej",
-        "Herbie",
-        "William John",
         "San",
         "Cremona: San",
         "Marksburg:",
@@ -99,11 +96,12 @@
         "Szczygłowice:",
         "dzielnica Knurów",
         "Cepeda",
-        "Cepeda Mora"
+        "Cepeda Mora",
+        "Ağcin,",
+        "Ağcin village",
+        "had population"
     ],
     "edges": [
-        "Panzergrenadier --[division]--> Großdeutschland: The",
-        "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
@@ -251,6 +249,8 @@
         "Stan --[van]--> Dijck: Stan",
         "Furman --[was]--> American politician",
         "Szczygłowice: --[szczygłowice]--> dzielnica Knurów",
-        "Cepeda --[mora:]--> Cepeda Mora"
+        "Cepeda --[mora:]--> Cepeda Mora",
+        "Ağcin, --[adıyaman:]--> Ağcin village",
+        "The --[village]--> had population"
     ]
 }
