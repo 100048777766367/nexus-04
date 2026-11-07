@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "have",
-        "Mikołaj",
         "Mikołaj Rej",
         "Herbie",
         "William John",
@@ -99,10 +97,11 @@
         "Furman",
         "American politician",
         "Szczygłowice:",
-        "dzielnica Knurów"
+        "dzielnica Knurów",
+        "Cepeda",
+        "Cepeda Mora"
     ],
     "edges": [
-        "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
@@ -251,6 +250,7 @@
         "Lake --[hawassa:]--> Lake Hawassa",
         "Stan --[van]--> Dijck: Stan",
         "Furman --[was]--> American politician",
-        "Szczygłowice: --[szczygłowice]--> dzielnica Knurów"
+        "Szczygłowice: --[szczygłowice]--> dzielnica Knurów",
+        "Cepeda --[mora:]--> Cepeda Mora"
     ]
 }
