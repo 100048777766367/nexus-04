@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Marksburg:",
-        "Marksburg castle",
         "One",
         "principal sites",
         "Jute",
@@ -99,10 +97,11 @@
         "Ağcin village",
         "had population",
         "National",
-        "the United"
+        "the United",
+        "Joseph",
+        "Hanson: Joseph"
     ],
     "edges": [
-        "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
@@ -251,6 +250,7 @@
         "Cepeda --[mora:]--> Cepeda Mora",
         "Ağcin, --[adıyaman:]--> Ağcin village",
         "The --[village]--> had population",
-        "National --[parks]--> the United"
+        "National --[parks]--> the United",
+        "Joseph --[mellor]--> Hanson: Joseph"
     ]
 }
