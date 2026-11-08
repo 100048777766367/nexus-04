@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "One",
-        "principal sites",
         "Jute",
         "India: The",
         "Karl",
@@ -99,10 +97,11 @@
         "National",
         "the United",
         "Joseph",
-        "Hanson: Joseph"
+        "Hanson: Joseph",
+        "Rievaulx:",
+        "small village"
     ],
     "edges": [
-        "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
@@ -251,6 +250,7 @@
         "Ağcin, --[adıyaman:]--> Ağcin village",
         "The --[village]--> had population",
         "National --[parks]--> the United",
-        "Joseph --[mellor]--> Hanson: Joseph"
+        "Joseph --[mellor]--> Hanson: Joseph",
+        "Rievaulx: --[rievaulx]--> small village"
     ]
 }
