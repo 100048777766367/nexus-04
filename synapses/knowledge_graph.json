@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Jute",
-        "India: The",
-        "Karl",
         "(chemist): Karl",
         "1935",
         "method determine",
@@ -99,11 +96,12 @@
         "Joseph",
         "Hanson: Joseph",
         "Rievaulx:",
-        "small village"
+        "small village",
+        "Perth",
+        "Refinery: The",
+        "Boulevard and"
     ],
     "edges": [
-        "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
-        "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
@@ -251,6 +249,8 @@
         "The --[village]--> had population",
         "National --[parks]--> the United",
         "Joseph --[mellor]--> Hanson: Joseph",
-        "Rievaulx: --[rievaulx]--> small village"
+        "Rievaulx: --[rievaulx]--> small village",
+        "Perth --[amboy]--> Refinery: The",
+        "Between --[convery]--> Boulevard and"
     ]
 }
