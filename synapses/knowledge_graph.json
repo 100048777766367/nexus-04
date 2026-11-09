@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(chemist): Karl",
-        "1935",
         "method determine",
         "Coledale",
         "Coledale Beck",
@@ -99,10 +97,11 @@
         "small village",
         "Perth",
         "Refinery: The",
-        "Boulevard and"
+        "Boulevard and",
+        "Been",
+        "Future: Been"
     ],
     "edges": [
-        "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
@@ -251,6 +250,7 @@
         "Joseph --[mellor]--> Hanson: Joseph",
         "Rievaulx: --[rievaulx]--> small village",
         "Perth --[amboy]--> Refinery: The",
-        "Between --[convery]--> Boulevard and"
+        "Between --[convery]--> Boulevard and",
+        "Been --[the]--> Future: Been"
     ]
 }
