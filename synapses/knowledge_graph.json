@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "method determine",
-        "Coledale",
         "Coledale Beck",
         "Amanita",
         "Amanita arctica",
@@ -99,10 +97,11 @@
         "Refinery: The",
         "Boulevard and",
         "Been",
-        "Future: Been"
+        "Future: Been",
+        "Hankyu",
+        "series (2024):"
     ],
     "edges": [
-        "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
@@ -251,6 +250,7 @@
         "Rievaulx: --[rievaulx]--> small village",
         "Perth --[amboy]--> Refinery: The",
         "Between --[convery]--> Boulevard and",
-        "Been --[the]--> Future: Been"
+        "Been --[the]--> Future: Been",
+        "Hankyu --[2300]--> series (2024):"
     ]
 }
