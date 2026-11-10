@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Amanita arctica",
-        "Don",
         "Donald",
         "Guardian",
         "Republican Party",
@@ -99,10 +97,11 @@
         "Hankyu",
         "series (2024):",
         "Broadway",
-        "station: The"
+        "station: The",
+        "Skipjack",
+        "The skipjack"
     ],
     "edges": [
-        "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
@@ -251,6 +250,7 @@
         "Between --[convery]--> Boulevard and",
         "Been --[the]--> Future: Been",
         "Hankyu --[2300]--> series (2024):",
-        "Broadway --[junction]--> station: The"
+        "Broadway --[junction]--> station: The",
+        "Skipjack --[shad:]--> The skipjack"
     ]
 }
