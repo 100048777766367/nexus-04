@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Donald",
-        "Guardian",
-        "Republican Party",
-        "Void",
         "Void Linux",
         "Luteusin",
         "azaphilone monoamine",
@@ -99,11 +95,13 @@
         "Broadway",
         "station: The",
         "Skipjack",
-        "The skipjack"
+        "The skipjack",
+        "Philip",
+        "Philip Zandén",
+        "Has",
+        "more than"
     ],
     "edges": [
-        "Batalha --[monastery:]--> The Monastery",
-        "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
@@ -251,6 +249,8 @@
         "Been --[the]--> Future: Been",
         "Hankyu --[2300]--> series (2024):",
         "Broadway --[junction]--> station: The",
-        "Skipjack --[shad:]--> The skipjack"
+        "Skipjack --[shad:]--> The skipjack",
+        "Philip --[zandén:]--> Philip Zandén",
+        "Has --[appeared]--> more than"
     ]
 }
