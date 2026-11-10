@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Coledale Beck",
-        "Amanita",
         "Amanita arctica",
         "Don",
         "Donald",
@@ -99,10 +97,11 @@
         "Been",
         "Future: Been",
         "Hankyu",
-        "series (2024):"
+        "series (2024):",
+        "Broadway",
+        "station: The"
     ],
     "edges": [
-        "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
@@ -251,6 +250,7 @@
         "Perth --[amboy]--> Refinery: The",
         "Between --[convery]--> Boulevard and",
         "Been --[the]--> Future: Been",
-        "Hankyu --[2300]--> series (2024):"
+        "Hankyu --[2300]--> series (2024):",
+        "Broadway --[junction]--> station: The"
     ]
 }
