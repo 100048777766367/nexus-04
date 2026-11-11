@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Christian",
-        "Christian Walz",
         "Walz's",
         "mainly pop/soul",
         "When",
@@ -99,10 +97,11 @@
         "Sons: Richard",
         "Their",
         "Perspective",
-        "Two figures"
+        "Two figures",
+        "South",
+        "Wales Corporate"
     ],
     "edges": [
-        "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
@@ -251,6 +250,7 @@
         "Has --[appeared]--> more than",
         "Richard --[garrett]--> Sons: Richard",
         "Their --[factory]--> was",
-        "Perspective --[(geometry):]--> Two figures"
+        "Perspective --[(geometry):]--> Two figures",
+        "South --[east]--> Wales Corporate"
     ]
 }
