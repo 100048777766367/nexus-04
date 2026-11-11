@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Millfield:",
-        "public school",
         "Christian",
         "Christian Walz",
         "Walz's",
@@ -99,10 +97,11 @@
         "more than",
         "Richard",
         "Sons: Richard",
-        "Their"
+        "Their",
+        "Perspective",
+        "Two figures"
     ],
     "edges": [
-        "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
@@ -251,6 +250,7 @@
         "Philip --[zandén:]--> Philip Zandén",
         "Has --[appeared]--> more than",
         "Richard --[garrett]--> Sons: Richard",
-        "Their --[factory]--> was"
+        "Their --[factory]--> was",
+        "Perspective --[(geometry):]--> Two figures"
     ]
 }
