@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Void Linux",
-        "Luteusin",
-        "azaphilone monoamine",
         "Millfield:",
         "public school",
         "Christian",
@@ -99,11 +96,12 @@
         "Philip",
         "Philip Zandén",
         "Has",
-        "more than"
+        "more than",
+        "Richard",
+        "Sons: Richard",
+        "Their"
     ],
     "edges": [
-        "Was --[the]--> general secretary",
-        "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
@@ -251,6 +249,8 @@
         "Broadway --[junction]--> station: The",
         "Skipjack --[shad:]--> The skipjack",
         "Philip --[zandén:]--> Philip Zandén",
-        "Has --[appeared]--> more than"
+        "Has --[appeared]--> more than",
+        "Richard --[garrett]--> Sons: Richard",
+        "Their --[factory]--> was"
     ]
 }
