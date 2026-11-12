@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Walz attended",
-        "Himno",
         "The Anthem",
         "Son",
         "On: Son",
@@ -99,10 +97,11 @@
         "Wales Corporate",
         "Yeoman",
         "Yeoman (F)",
-        "during World"
+        "during World",
+        "Taste",
+        "Sin: Taste"
     ],
     "edges": [
-        "Tambaqui: --[the]--> tambaqui large",
         "Native --[tropical]--> South America,",
         "Spider!: --[spider]--> 1991 British",
         "Committee --[for]--> Handling Proposals:",
@@ -251,6 +250,7 @@
         "South --[east]--> Wales Corporate",
         "Yeoman --[(f):]--> Yeoman (F)",
         "Naval --[reserve]--> during World",
-        "The --[first]--> Yeoman (F)"
+        "The --[first]--> Yeoman (F)",
+        "Taste --[the]--> Sin: Taste"
     ]
 }
