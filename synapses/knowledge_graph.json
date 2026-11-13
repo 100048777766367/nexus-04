@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "On: Son",
-        "David",
         "the Richard",
         "Simmons",
         "Surgery the",
@@ -99,10 +97,11 @@
         "Taste",
         "Sin: Taste",
         "Satan",
-        "Holiday (band):"
+        "Holiday (band):",
+        "X-man",
+        "show): X-Man"
     ],
     "edges": [
-        "Spider!: --[spider]--> 1991 British",
         "Committee --[for]--> Handling Proposals:",
         "Haru --[(actress):]--> Haru Japanese",
         "She --[known]--> for the",
@@ -251,6 +250,7 @@
         "Naval --[reserve]--> during World",
         "The --[first]--> Yeoman (F)",
         "Taste --[the]--> Sin: Taste",
-        "Satan --[takes]--> Holiday (band):"
+        "Satan --[takes]--> Holiday (band):",
+        "X-man --[(game]--> show): X-Man"
     ]
 }
