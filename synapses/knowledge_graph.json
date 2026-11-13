@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the Richard",
-        "Simmons",
         "Surgery the",
         "Pristinamycin",
         "Pristinamycin IIA",
@@ -99,10 +97,11 @@
         "Satan",
         "Holiday (band):",
         "X-man",
-        "show): X-Man"
+        "show): X-Man",
+        "Fiat",
+        "The Fiat"
     ],
     "edges": [
-        "Committee --[for]--> Handling Proposals:",
         "Haru --[(actress):]--> Haru Japanese",
         "She --[known]--> for the",
         "Serious --[sweet:]--> Serious Sweet",
@@ -251,6 +250,7 @@
         "The --[first]--> Yeoman (F)",
         "Taste --[the]--> Sin: Taste",
         "Satan --[takes]--> Holiday (band):",
-        "X-man --[(game]--> show): X-Man"
+        "X-man --[(game]--> show): X-Man",
+        "Fiat --[500x:]--> The Fiat"
     ]
 }
