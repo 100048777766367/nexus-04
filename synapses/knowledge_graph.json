@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Anthem",
-        "Son",
         "On: Son",
         "David",
         "the Richard",
@@ -99,10 +97,11 @@
         "Yeoman (F)",
         "during World",
         "Taste",
-        "Sin: Taste"
+        "Sin: Taste",
+        "Satan",
+        "Holiday (band):"
     ],
     "edges": [
-        "Native --[tropical]--> South America,",
         "Spider!: --[spider]--> 1991 British",
         "Committee --[for]--> Handling Proposals:",
         "Haru --[(actress):]--> Haru Japanese",
@@ -251,6 +250,7 @@
         "Yeoman --[(f):]--> Yeoman (F)",
         "Naval --[reserve]--> during World",
         "The --[first]--> Yeoman (F)",
-        "Taste --[the]--> Sin: Taste"
+        "Taste --[the]--> Sin: Taste",
+        "Satan --[takes]--> Holiday (band):"
     ]
 }
