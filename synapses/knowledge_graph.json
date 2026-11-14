@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Team: The",
-        "Multicanal",
-        "Multicanal was",
         "Rainbow",
         "Trail: The",
         "Chen",
@@ -99,11 +96,12 @@
         "She",
         "been built",
         "Ernakulam",
-        "railway station:"
+        "railway station:",
+        "Reda",
+        "Reda Mansour",
+        "three books"
     ],
     "edges": [
-        "Kennedy's --[8th]--> novel and",
-        "Blas --[lezo:]--> Admiral Blas",
         "Phenix --[city,]--> Alabama: Phenix",
         "State --[alabama,]--> and the",
         "Most --[guys]--> Are Losers:",
@@ -251,6 +249,8 @@
         "Fiat --[500x:]--> The Fiat",
         "Hms --[santa]--> Margarita: HMS",
         "She --[had]--> been built",
-        "Ernakulam --[junction]--> railway station:"
+        "Ernakulam --[junction]--> railway station:",
+        "Reda --[mansour:]--> Reda Mansour",
+        "Has --[published]--> three books"
     ]
 }
