@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "streptogramin group",
-        "International",
         "Team: The",
         "Multicanal",
         "Multicanal was",
@@ -99,10 +97,11 @@
         "Hms",
         "Margarita: HMS",
         "She",
-        "been built"
+        "been built",
+        "Ernakulam",
+        "railway station:"
     ],
     "edges": [
-        "Serious --[sweet:]--> Serious Sweet",
         "Kennedy's --[8th]--> novel and",
         "Blas --[lezo:]--> Admiral Blas",
         "Phenix --[city,]--> Alabama: Phenix",
@@ -251,6 +250,7 @@
         "X-man --[(game]--> show): X-Man",
         "Fiat --[500x:]--> The Fiat",
         "Hms --[santa]--> Margarita: HMS",
-        "She --[had]--> been built"
+        "She --[had]--> been built",
+        "Ernakulam --[junction]--> railway station:"
     ]
 }
