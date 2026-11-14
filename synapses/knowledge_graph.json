@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Surgery the",
-        "Pristinamycin",
-        "Pristinamycin IIA",
-        "Member",
         "streptogramin group",
         "International",
         "Team: The",
@@ -99,11 +95,13 @@
         "X-man",
         "show): X-Man",
         "Fiat",
-        "The Fiat"
+        "The Fiat",
+        "Hms",
+        "Margarita: HMS",
+        "She",
+        "been built"
     ],
     "edges": [
-        "Haru --[(actress):]--> Haru Japanese",
-        "She --[known]--> for the",
         "Serious --[sweet:]--> Serious Sweet",
         "Kennedy's --[8th]--> novel and",
         "Blas --[lezo:]--> Admiral Blas",
@@ -251,6 +249,8 @@
         "Taste --[the]--> Sin: Taste",
         "Satan --[takes]--> Holiday (band):",
         "X-man --[(game]--> show): X-Man",
-        "Fiat --[500x:]--> The Fiat"
+        "Fiat --[500x:]--> The Fiat",
+        "Hms --[santa]--> Margarita: HMS",
+        "She --[had]--> been built"
     ]
 }
