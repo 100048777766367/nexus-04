@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Chen",
-        "Chen Bijun",
-        "Born",
         "prominent merchant",
         "2025",
         "Marathon: The",
@@ -99,11 +96,12 @@
         "Reda Mansour",
         "three books",
         "Septet:",
-        "Story Hong"
+        "Story Hong",
+        "Mate",
+        "Mate Dick",
+        "his prospecting"
     ],
     "edges": [
-        "State --[alabama,]--> and the",
-        "Most --[guys]--> Are Losers:",
         "County --[razès:]--> The County",
         "Alfafar: --[alfafar]--> municipality the",
         "Riders --[the]--> Stars: Riders",
@@ -251,6 +249,8 @@
         "Ernakulam --[junction]--> railway station:",
         "Reda --[mansour:]--> Reda Mansour",
         "Has --[published]--> three books",
-        "Septet: --[the]--> Story Hong"
+        "Septet: --[the]--> Story Hong",
+        "Mate --[dick:]--> Mate Dick",
+        "Was --[based]--> his prospecting"
     ]
 }
