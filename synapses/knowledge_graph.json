@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "prominent merchant",
-        "2025",
         "Marathon: The",
         "Non-metropolitan",
         "Non-metropolitan districts,",
@@ -99,10 +97,11 @@
         "Story Hong",
         "Mate",
         "Mate Dick",
-        "his prospecting"
+        "his prospecting",
+        "Bessie",
+        "Elizabeth Mary"
     ],
     "edges": [
-        "County --[razès:]--> The County",
         "Alfafar: --[alfafar]--> municipality the",
         "Riders --[the]--> Stars: Riders",
         "Large-nosed --[wood]--> turtle: The",
@@ -251,6 +250,7 @@
         "Has --[published]--> three books",
         "Septet: --[the]--> Story Hong",
         "Mate --[dick:]--> Mate Dick",
-        "Was --[based]--> his prospecting"
+        "Was --[based]--> his prospecting",
+        "Bessie --[beatty:]--> Elizabeth Mary"
     ]
 }
