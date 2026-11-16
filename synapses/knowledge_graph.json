@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Non-metropolitan districts,",
-        "Blitzkid:",
-        "American horror",
         "leading proponents",
         "Sklabiná:",
         "village and",
@@ -99,11 +96,12 @@
         "Bessie",
         "Elizabeth Mary",
         "Nexus-04:",
-        "bào quy"
+        "bào quy",
+        "Maria",
+        "Sandulli: Maria",
+        "been judge"
     ],
     "edges": [
-        "Alfafar: --[alfafar]--> municipality the",
-        "Riders --[the]--> Stars: Riders",
         "Large-nosed --[wood]--> turtle: The",
         "Carsten --[schneider:]--> Carsten Schneider",
         "Sloughhouse --[ava:]--> Sloughhouse American",
@@ -251,6 +249,8 @@
         "Septet: --[the]--> Story Hong",
         "Mate --[dick:]--> Mate Dick",
         "Was --[based]--> his prospecting",
-        "Bessie --[beatty:]--> Elizabeth Mary"
+        "Bessie --[beatty:]--> Elizabeth Mary",
+        "Maria --[alessandra]--> Sandulli: Maria",
+        "She --[has]--> been judge"
     ]
 }
