@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "leading proponents",
-        "Sklabiná:",
         "village and",
         "Department",
         "Business, Energy",
@@ -99,10 +97,11 @@
         "bào quy",
         "Maria",
         "Sandulli: Maria",
-        "been judge"
+        "been judge",
+        "Hoffman's",
+        "Hoffman's Playland"
     ],
     "edges": [
-        "Large-nosed --[wood]--> turtle: The",
         "Carsten --[schneider:]--> Carsten Schneider",
         "Sloughhouse --[ava:]--> Sloughhouse American",
         "Jake --[griffin:]--> Jacob",
@@ -251,6 +250,7 @@
         "Was --[based]--> his prospecting",
         "Bessie --[beatty:]--> Elizabeth Mary",
         "Maria --[alessandra]--> Sandulli: Maria",
-        "She --[has]--> been judge"
+        "She --[has]--> been judge",
+        "Hoffman's --[playland:]--> Hoffman's Playland"
     ]
 }
