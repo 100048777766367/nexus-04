@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(politician): Fan",
-        "Robbie",
         "(footballer): Robert",
         "Between",
         "Worlds album):",
@@ -99,10 +97,11 @@
         "Bebearia",
         "Bebearia laetitioides",
         "Found",
-        "eastern part"
+        "eastern part",
+        "California",
+        "Insurance: The"
     ],
     "edges": [
-        "Jake --[griffin:]--> Jacob",
         "Griffin --[american]--> professional stock",
         "When --[the]--> Heath Dreams",
         "Port --[shëngjin:]--> The Port",
@@ -251,6 +250,7 @@
         "She --[has]--> been judge",
         "Hoffman's --[playland:]--> Hoffman's Playland",
         "Bebearia --[laetitioides:]--> Bebearia laetitioides",
-        "Found --[the]--> eastern part"
+        "Found --[the]--> eastern part",
+        "California --[department]--> Insurance: The"
     ]
 }
