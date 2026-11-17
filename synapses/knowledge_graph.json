@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "village and",
-        "Department",
-        "Business, Energy",
-        "Fan",
         "(politician): Fan",
         "Robbie",
         "(footballer): Robert",
@@ -99,11 +95,13 @@
         "Sandulli: Maria",
         "been judge",
         "Hoffman's",
-        "Hoffman's Playland"
+        "Hoffman's Playland",
+        "Bebearia",
+        "Bebearia laetitioides",
+        "Found",
+        "eastern part"
     ],
     "edges": [
-        "Carsten --[schneider:]--> Carsten Schneider",
-        "Sloughhouse --[ava:]--> Sloughhouse American",
         "Jake --[griffin:]--> Jacob",
         "Griffin --[american]--> professional stock",
         "When --[the]--> Heath Dreams",
@@ -251,6 +249,8 @@
         "Bessie --[beatty:]--> Elizabeth Mary",
         "Maria --[alessandra]--> Sandulli: Maria",
         "She --[has]--> been judge",
-        "Hoffman's --[playland:]--> Hoffman's Playland"
+        "Hoffman's --[playland:]--> Hoffman's Playland",
+        "Bebearia --[laetitioides:]--> Bebearia laetitioides",
+        "Found --[the]--> eastern part"
     ]
 }
