@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(footballer): Robert",
-        "Between",
         "Worlds album):",
         "The",
         "was recorded",
@@ -99,10 +97,11 @@
         "Found",
         "eastern part",
         "California",
-        "Insurance: The"
+        "Insurance: The",
+        "Ours",
+        "Jura: ours"
     ],
     "edges": [
-        "Griffin --[american]--> professional stock",
         "When --[the]--> Heath Dreams",
         "Port --[shëngjin:]--> The Port",
         "André --[kamperveen]--> Stadion: André",
@@ -251,6 +250,7 @@
         "Hoffman's --[playland:]--> Hoffman's Playland",
         "Bebearia --[laetitioides:]--> Bebearia laetitioides",
         "Found --[the]--> eastern part",
-        "California --[department]--> Insurance: The"
+        "California --[department]--> Insurance: The",
+        "Ours --[dans]--> Jura: ours"
     ]
 }
