@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Worlds album):",
-        "The",
         "was recorded",
         "James",
         "(died 1369):",
@@ -99,10 +97,11 @@
         "California",
         "Insurance: The",
         "Ours",
-        "Jura: ours"
+        "Jura: ours",
+        "Rescue",
+        "The Agreement"
     ],
     "edges": [
-        "When --[the]--> Heath Dreams",
         "Port --[shëngjin:]--> The Port",
         "André --[kamperveen]--> Stadion: André",
         "Ebenezer --[maxwell]--> House: The",
@@ -251,6 +250,7 @@
         "Bebearia --[laetitioides:]--> Bebearia laetitioides",
         "Found --[the]--> eastern part",
         "California --[department]--> Insurance: The",
-        "Ours --[dans]--> Jura: ours"
+        "Ours --[dans]--> Jura: ours",
+        "Rescue --[agreement:]--> The Agreement"
     ]
 }
