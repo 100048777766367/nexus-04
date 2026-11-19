@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pollen 1995",
-        "Asclepias",
         "Asclepias fascicularis",
         "Church",
         "Lady Kazan,",
@@ -99,10 +97,11 @@
         "Archduchess",
         "Franziska Austria",
         "Robert",
-        "Robert Charles"
+        "Robert Charles",
+        "Henyey:",
+        "George Henyey"
     ],
     "edges": [
-        "Responsible --[plan]--> End the",
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
         "Rider --[broncs]--> men's basketball:",
@@ -251,6 +250,7 @@
         "Rescue --[agreement:]--> The Agreement",
         "Western --[sumatran]--> rhinoceros: The",
         "Archduchess --[elisabeth]--> Franziska Austria",
-        "Robert --[asch:]--> Robert Charles"
+        "Robert --[asch:]--> Robert Charles",
+        "Henyey: --[louis]--> George Henyey"
     ]
 }
