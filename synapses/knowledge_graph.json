@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "eldest son",
-        "Pollen",
         "Pollen 1995",
         "Asclepias",
         "Asclepias fascicularis",
@@ -99,10 +97,11 @@
         "Western",
         "rhinoceros: The",
         "Archduchess",
-        "Franziska Austria"
+        "Franziska Austria",
+        "Robert",
+        "Robert Charles"
     ],
     "edges": [
-        "Ebenezer --[maxwell]--> House: The",
         "Responsible --[plan]--> End the",
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
@@ -251,6 +250,7 @@
         "Ours --[dans]--> Jura: ours",
         "Rescue --[agreement:]--> The Agreement",
         "Western --[sumatran]--> rhinoceros: The",
-        "Archduchess --[elisabeth]--> Franziska Austria"
+        "Archduchess --[elisabeth]--> Franziska Austria",
+        "Robert --[asch:]--> Robert Charles"
     ]
 }
