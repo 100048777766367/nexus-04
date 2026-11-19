@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(died 1369):",
-        "Was",
         "eldest son",
         "Pollen",
         "Pollen 1995",
@@ -99,10 +97,11 @@
         "Rescue",
         "The Agreement",
         "Western",
-        "rhinoceros: The"
+        "rhinoceros: The",
+        "Archduchess",
+        "Franziska Austria"
     ],
     "edges": [
-        "André --[kamperveen]--> Stadion: André",
         "Ebenezer --[maxwell]--> House: The",
         "Responsible --[plan]--> End the",
         "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
@@ -251,6 +250,7 @@
         "California --[department]--> Insurance: The",
         "Ours --[dans]--> Jura: ours",
         "Rescue --[agreement:]--> The Agreement",
-        "Western --[sumatran]--> rhinoceros: The"
+        "Western --[sumatran]--> rhinoceros: The",
+        "Archduchess --[elisabeth]--> Franziska Austria"
     ]
 }
