@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Asclepias fascicularis",
-        "Church",
         "Lady Kazan,",
         "Naval",
         "Station Queenstown",
@@ -99,10 +97,11 @@
         "Robert",
         "Robert Charles",
         "Henyey:",
-        "George Henyey"
+        "George Henyey",
+        "Great",
+        "War: the"
     ],
     "edges": [
-        "Bakhtiyor --[fazilov:]--> Bakhtiyor Fazilov",
         "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
         "Rider --[broncs]--> men's basketball:",
         "Night --[and]--> Dream: Night",
@@ -251,6 +250,7 @@
         "Western --[sumatran]--> rhinoceros: The",
         "Archduchess --[elisabeth]--> Franziska Austria",
         "Robert --[asch:]--> Robert Charles",
-        "Henyey: --[louis]--> George Henyey"
+        "Henyey: --[louis]--> George Henyey",
+        "Great --[northern]--> War: the"
     ]
 }
