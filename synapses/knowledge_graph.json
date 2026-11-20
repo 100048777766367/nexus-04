@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lady Kazan,",
-        "Naval",
         "Station Queenstown",
         "Nas",
         "was",
@@ -99,10 +97,11 @@
         "Henyey:",
         "George Henyey",
         "Great",
-        "War: the"
+        "War: the",
+        "Fulvia",
+        "Fulvia Bisi"
     ],
     "edges": [
-        "Bellevue-la-montagne: --[bellevue-la-montagne]--> commune the",
         "Rider --[broncs]--> men's basketball:",
         "Night --[and]--> Dream: Night",
         "Downtown --[summerlin:]--> Downtown Summerlin",
@@ -251,6 +250,7 @@
         "Archduchess --[elisabeth]--> Franziska Austria",
         "Robert --[asch:]--> Robert Charles",
         "Henyey: --[louis]--> George Henyey",
-        "Great --[northern]--> War: the"
+        "Great --[northern]--> War: the",
+        "Fulvia --[bisi:]--> Fulvia Bisi"
     ]
 }
