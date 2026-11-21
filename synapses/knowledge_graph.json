@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dijck: Stan",
-        "Furman",
         "American politician",
         "Szczygłowice:",
         "dzielnica Knurów",
@@ -99,10 +97,11 @@
         "Native",
         "Japan,",
         "Our",
-        "Mount Carmel"
+        "Mount Carmel",
+        "Africa",
+        "Award: Africa"
     ],
     "edges": [
-        "Khalan --[laborn:]--> Khalan Laborn",
         "Most --[recently]--> played for",
         "Zekreet --[peninsula:]--> The Zekreet",
         "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I",
@@ -251,6 +250,7 @@
         "Fulvia --[bisi:]--> Fulvia Bisi",
         "Adenocaulon --[himalaicum:]--> Adenocaulon himalaicum",
         "Native --[china,]--> Japan,",
-        "Our --[lady]--> Mount Carmel"
+        "Our --[lady]--> Mount Carmel",
+        "Africa --[illustrious]--> Award: Africa"
     ]
 }
