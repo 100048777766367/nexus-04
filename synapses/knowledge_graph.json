@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Station Queenstown",
-        "Nas",
-        "was",
-        "Lake",
         "Lake Hawassa",
         "Stan",
         "Dijck: Stan",
@@ -99,11 +95,13 @@
         "Great",
         "War: the",
         "Fulvia",
-        "Fulvia Bisi"
+        "Fulvia Bisi",
+        "Adenocaulon",
+        "Adenocaulon himalaicum",
+        "Native",
+        "Japan,"
     ],
     "edges": [
-        "Rider --[broncs]--> men's basketball:",
-        "Night --[and]--> Dream: Night",
         "Downtown --[summerlin:]--> Downtown Summerlin",
         "Khalan --[laborn:]--> Khalan Laborn",
         "Most --[recently]--> played for",
@@ -251,6 +249,8 @@
         "Robert --[asch:]--> Robert Charles",
         "Henyey: --[louis]--> George Henyey",
         "Great --[northern]--> War: the",
-        "Fulvia --[bisi:]--> Fulvia Bisi"
+        "Fulvia --[bisi:]--> Fulvia Bisi",
+        "Adenocaulon --[himalaicum:]--> Adenocaulon himalaicum",
+        "Native --[china,]--> Japan,"
     ]
 }
