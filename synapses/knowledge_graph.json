@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lake Hawassa",
-        "Stan",
         "Dijck: Stan",
         "Furman",
         "American politician",
@@ -99,10 +97,11 @@
         "Adenocaulon",
         "Adenocaulon himalaicum",
         "Native",
-        "Japan,"
+        "Japan,",
+        "Our",
+        "Mount Carmel"
     ],
     "edges": [
-        "Downtown --[summerlin:]--> Downtown Summerlin",
         "Khalan --[laborn:]--> Khalan Laborn",
         "Most --[recently]--> played for",
         "Zekreet --[peninsula:]--> The Zekreet",
@@ -251,6 +250,7 @@
         "Great --[northern]--> War: the",
         "Fulvia --[bisi:]--> Fulvia Bisi",
         "Adenocaulon --[himalaicum:]--> Adenocaulon himalaicum",
-        "Native --[china,]--> Japan,"
+        "Native --[china,]--> Japan,",
+        "Our --[lady]--> Mount Carmel"
     ]
 }
