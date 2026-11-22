@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "dzielnica Knurów",
-        "Cepeda",
         "Cepeda Mora",
         "Ağcin,",
         "Ağcin village",
@@ -99,10 +97,11 @@
         "Africa",
         "Award: Africa",
         "Jacques",
-        "Jacques Fouques-Duparc"
+        "Jacques Fouques-Duparc",
+        "New",
+        "College: New"
     ],
     "edges": [
-        "Zekreet --[peninsula:]--> The Zekreet",
         "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I",
         "Frank --[herbert's]--> Dune (video",
         "Diolcus --[irroratus:]--> Diolcus irroratus",
@@ -251,6 +250,7 @@
         "Native --[china,]--> Japan,",
         "Our --[lady]--> Mount Carmel",
         "Africa --[illustrious]--> Award: Africa",
-        "Jacques --[fouques-duparc:]--> Jacques Fouques-Duparc"
+        "Jacques --[fouques-duparc:]--> Jacques Fouques-Duparc",
+        "New --[england]--> College: New"
     ]
 }
