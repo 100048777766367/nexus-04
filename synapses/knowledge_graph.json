@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cepeda Mora",
-        "Ağcin,",
         "Ağcin village",
         "had population",
         "National",
@@ -99,10 +97,11 @@
         "Jacques",
         "Jacques Fouques-Duparc",
         "New",
-        "College: New"
+        "College: New",
+        "Gary",
+        "Gary Dell'Abate,"
     ],
     "edges": [
-        "Pk-62 --[charsadda-i:]--> PK-62 Charsadda-I",
         "Frank --[herbert's]--> Dune (video",
         "Diolcus --[irroratus:]--> Diolcus irroratus",
         "Found --[the]--> Caribbean Sea",
@@ -251,6 +250,7 @@
         "Our --[lady]--> Mount Carmel",
         "Africa --[illustrious]--> Award: Africa",
         "Jacques --[fouques-duparc:]--> Jacques Fouques-Duparc",
-        "New --[england]--> College: New"
+        "New --[england]--> College: New",
+        "Gary --[dell'abate:]--> Gary Dell'Abate,"
     ]
 }
