@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ağcin village",
-        "had population",
         "National",
         "the United",
         "Joseph",
@@ -99,10 +97,11 @@
         "New",
         "College: New",
         "Gary",
-        "Gary Dell'Abate,"
+        "Gary Dell'Abate,",
+        "Leucostele",
+        "Leucostele skottsbergii"
     ],
     "edges": [
-        "Frank --[herbert's]--> Dune (video",
         "Diolcus --[irroratus:]--> Diolcus irroratus",
         "Found --[the]--> Caribbean Sea",
         "Archdiocese --[oristano:]--> The Archdiocese",
@@ -251,6 +250,7 @@
         "Africa --[illustrious]--> Award: Africa",
         "Jacques --[fouques-duparc:]--> Jacques Fouques-Duparc",
         "New --[england]--> College: New",
-        "Gary --[dell'abate:]--> Gary Dell'Abate,"
+        "Gary --[dell'abate:]--> Gary Dell'Abate,",
+        "Leucostele --[skottsbergii:]--> Leucostele skottsbergii"
     ]
 }
