@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "National",
-        "the United",
         "Joseph",
         "Hanson: Joseph",
         "Rievaulx:",
@@ -99,10 +97,11 @@
         "Gary",
         "Gary Dell'Abate,",
         "Leucostele",
-        "Leucostele skottsbergii"
+        "Leucostele skottsbergii",
+        "The",
+        "Wess Quartet:"
     ],
     "edges": [
-        "Diolcus --[irroratus:]--> Diolcus irroratus",
         "Found --[the]--> Caribbean Sea",
         "Archdiocese --[oristano:]--> The Archdiocese",
         "Was --[created]--> the elev",
@@ -251,6 +250,7 @@
         "Jacques --[fouques-duparc:]--> Jacques Fouques-Duparc",
         "New --[england]--> College: New",
         "Gary --[dell'abate:]--> Gary Dell'Abate,",
-        "Leucostele --[skottsbergii:]--> Leucostele skottsbergii"
+        "Leucostele --[skottsbergii:]--> Leucostele skottsbergii",
+        "The --[frank]--> Wess Quartet:"
     ]
 }
