@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Joseph",
-        "Hanson: Joseph",
         "Rievaulx:",
         "small village",
         "Perth",
@@ -99,10 +97,11 @@
         "Leucostele",
         "Leucostele skottsbergii",
         "The",
-        "Wess Quartet:"
+        "Wess Quartet:",
+        "Grimaucourt-près-sampigny:",
+        "commune the"
     ],
     "edges": [
-        "Found --[the]--> Caribbean Sea",
         "Archdiocese --[oristano:]--> The Archdiocese",
         "Was --[created]--> the elev",
         "Jean --[gauthier:]--> Joseph Jean-Philippe",
@@ -251,6 +250,7 @@
         "New --[england]--> College: New",
         "Gary --[dell'abate:]--> Gary Dell'Abate,",
         "Leucostele --[skottsbergii:]--> Leucostele skottsbergii",
-        "The --[frank]--> Wess Quartet:"
+        "The --[frank]--> Wess Quartet:",
+        "Grimaucourt-près-sampigny: --[grimaucourt-près-sampigny]--> commune the"
     ]
 }
