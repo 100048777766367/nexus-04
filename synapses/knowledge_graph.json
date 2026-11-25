@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Rievaulx:",
-        "small village",
-        "Perth",
         "Refinery: The",
         "Boulevard and",
         "Been",
@@ -99,11 +96,12 @@
         "The",
         "Wess Quartet:",
         "Grimaucourt-près-sampigny:",
-        "commune the"
+        "commune the",
+        "Kaplan,",
+        "Kaplan city",
+        "was 4,600"
     ],
     "edges": [
-        "Archdiocese --[oristano:]--> The Archdiocese",
-        "Was --[created]--> the elev",
         "Jean --[gauthier:]--> Joseph Jean-Philippe",
         "Even --[torkildsen]--> Lande: Even",
         "Served --[representative]--> the Norwegian",
@@ -251,6 +249,8 @@
         "Gary --[dell'abate:]--> Gary Dell'Abate,",
         "Leucostele --[skottsbergii:]--> Leucostele skottsbergii",
         "The --[frank]--> Wess Quartet:",
-        "Grimaucourt-près-sampigny: --[grimaucourt-près-sampigny]--> commune the"
+        "Grimaucourt-près-sampigny: --[grimaucourt-près-sampigny]--> commune the",
+        "Kaplan, --[louisiana:]--> Kaplan city",
+        "The --[population]--> was 4,600"
     ]
 }
