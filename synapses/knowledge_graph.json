@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Refinery: The",
-        "Boulevard and",
         "Been",
         "Future: Been",
         "Hankyu",
@@ -99,10 +97,11 @@
         "commune the",
         "Kaplan,",
         "Kaplan city",
-        "was 4,600"
+        "was 4,600",
+        "Mary",
+        "Hall: Mary"
     ],
     "edges": [
-        "Jean --[gauthier:]--> Joseph Jean-Philippe",
         "Even --[torkildsen]--> Lande: Even",
         "Served --[representative]--> the Norwegian",
         "Brandon --[hurst:]--> Brandon Hurst",
@@ -251,6 +250,7 @@
         "The --[frank]--> Wess Quartet:",
         "Grimaucourt-près-sampigny: --[grimaucourt-près-sampigny]--> commune the",
         "Kaplan, --[louisiana:]--> Kaplan city",
-        "The --[population]--> was 4,600"
+        "The --[population]--> was 4,600",
+        "Mary --[reed]--> Hall: Mary"
     ]
 }
