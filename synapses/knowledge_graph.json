@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Been",
-        "Future: Been",
-        "Hankyu",
         "series (2024):",
         "Broadway",
         "station: The",
@@ -99,11 +96,12 @@
         "Kaplan city",
         "was 4,600",
         "Mary",
-        "Hall: Mary"
+        "Hall: Mary",
+        "Emmanuelle",
+        "Emmanuelle Sophie",
+        "for playing"
     ],
     "edges": [
-        "Even --[torkildsen]--> Lande: Even",
-        "Served --[representative]--> the Norwegian",
         "Brandon --[hurst:]--> Brandon Hurst",
         "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
         "Delacre, --[neo-gothic]--> corner building",
@@ -251,6 +249,8 @@
         "Grimaucourt-près-sampigny: --[grimaucourt-près-sampigny]--> commune the",
         "Kaplan, --[louisiana:]--> Kaplan city",
         "The --[population]--> was 4,600",
-        "Mary --[reed]--> Hall: Mary"
+        "Mary --[reed]--> Hall: Mary",
+        "Emmanuelle --[chriqui:]--> Emmanuelle Sophie",
+        "She --[known]--> for playing"
     ]
 }
