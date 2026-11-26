@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "series (2024):",
-        "Broadway",
         "station: The",
         "Skipjack",
         "The skipjack",
@@ -99,10 +97,11 @@
         "Hall: Mary",
         "Emmanuelle",
         "Emmanuelle Sophie",
-        "for playing"
+        "for playing",
+        "Chancroid:",
+        "bacterial sexually"
     ],
     "edges": [
-        "Brandon --[hurst:]--> Brandon Hurst",
         "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
         "Delacre, --[neo-gothic]--> corner building",
         "Dance --[the]--> City: Dance",
@@ -251,6 +250,7 @@
         "The --[population]--> was 4,600",
         "Mary --[reed]--> Hall: Mary",
         "Emmanuelle --[chriqui:]--> Emmanuelle Sophie",
-        "She --[known]--> for playing"
+        "She --[known]--> for playing",
+        "Chancroid: --[chancroid]--> bacterial sexually"
     ]
 }
