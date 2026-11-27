@@ -3,38 +3,38 @@
     "node_dna": {
         "identity": "100048777766367/nexus-04",
         "generation": "F4_FRACTAL_MITOSIS_NEXUS",
-        "generation_epoch": 191,
+        "generation_epoch": 192,
         "architecture": "Nexus04_Recursive_Mitosis",
-        "prev_cid": "854a97a676270d0f3b1d62f8b202bc9f5688af3c32877520cfabc1fdf0e1c6e438503753e273a5e64966c28de8e2e7a6e6b7a5cbaa5df56d8da8f921a799d024"
+        "prev_cid": "0df28204421763cebc62c92590cb100434d9416642c90743850f7bfdd25ae9059173fadda50773cb5364d9c2636f99719f0153f018bbe428348281b7ccf9a55c"
     },
-    "generation_epoch": 191,
-    "timestamp": 1795701713,
-    "decision": 0.5011,
+    "generation_epoch": 192,
+    "timestamp": 1795740055,
+    "decision": 0.4941,
     "command_pulse": [
-        0.5011,
-        0.4989
+        0.4941,
+        0.5059
     ],
     "features": [
-        0.5011,
-        0.4989
+        0.4941,
+        0.5059
     ],
     "directed_commands": {
         "retina": {
             "action": "adjust_focus",
-            "sensitivity": 0.7516,
-            "attention_gate": "high"
+            "sensitivity": 0.7411,
+            "attention_gate": "low"
         },
         "motor": {
             "action": "contract_or_relax",
             "torque_pulse": [
-                0.5011,
-                0.4989
+                0.4941,
+                0.5059
             ],
-            "intensity": 0.0022
+            "intensity": 0.0118
         },
         "monad": {
             "action": "dialectical_synthesis",
-            "bias_shift": 0.0011
+            "bias_shift": -0.0059
         }
     },
     "gossip_network": [
@@ -53,5 +53,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "0df28204421763cebc62c92590cb100434d9416642c90743850f7bfdd25ae9059173fadda50773cb5364d9c2636f99719f0153f018bbe428348281b7ccf9a55c"
+    "quantum_cid": "f6c45e0c9cd5ce237a8aef235c1060bbc7b8d52e9af2997e486ef282c88b131eafe061dcea13851827a330da7a1a2aa0c7e56b65061132262bcd3632ec3c3189"
 }

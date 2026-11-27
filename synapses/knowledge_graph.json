@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "station: The",
-        "Skipjack",
-        "The skipjack",
         "Philip",
         "Philip Zandén",
         "Has",
@@ -99,11 +96,12 @@
         "Emmanuelle Sophie",
         "for playing",
         "Chancroid:",
-        "bacterial sexually"
+        "bacterial sexually",
+        "Songs",
+        "Songs Remember",
+        "recording had"
     ],
     "edges": [
-        "Pharmacie --[anglaise:]--> Pharmacie Anglaise,",
-        "Delacre, --[neo-gothic]--> corner building",
         "Dance --[the]--> City: Dance",
         "Completed --[1883,]--> the artwork",
         "Namibia --[cricket]--> Ground: Namibia",
@@ -251,6 +249,8 @@
         "Mary --[reed]--> Hall: Mary",
         "Emmanuelle --[chriqui:]--> Emmanuelle Sophie",
         "She --[known]--> for playing",
-        "Chancroid: --[chancroid]--> bacterial sexually"
+        "Chancroid: --[chancroid]--> bacterial sexually",
+        "Songs --[remember:]--> Songs Remember",
+        "The --[album's]--> recording had"
     ]
 }
