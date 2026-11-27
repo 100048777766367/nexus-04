@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Philip",
-        "Philip Zandén",
-        "Has",
         "more than",
         "Richard",
         "Sons: Richard",
@@ -99,11 +96,12 @@
         "bacterial sexually",
         "Songs",
         "Songs Remember",
-        "recording had"
+        "recording had",
+        "Gaditano",
+        "The Gaditano",
+        "along"
     ],
     "edges": [
-        "Dance --[the]--> City: Dance",
-        "Completed --[1883,]--> the artwork",
         "Namibia --[cricket]--> Ground: Namibia",
         "The --[headquarters]--> cricket Namibia",
         "Meldreth --[railway]--> station: Meldreth",
@@ -251,6 +249,8 @@
         "She --[known]--> for playing",
         "Chancroid: --[chancroid]--> bacterial sexually",
         "Songs --[remember:]--> Songs Remember",
-        "The --[album's]--> recording had"
+        "The --[album's]--> recording had",
+        "Gaditano --[pouter:]--> The Gaditano",
+        "Gaditano --[pouters,]--> along"
     ]
 }
