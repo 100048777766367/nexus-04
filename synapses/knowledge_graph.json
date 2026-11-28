@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Their",
         "Perspective",
         "Two figures",
         "South",
@@ -99,10 +98,10 @@
         "along",
         "Lise",
         "Lise Olivier",
-        "the 2012"
+        "the 2012",
+        "Duchess Richmond"
     ],
     "edges": [
-        "Meldreth --[railway]--> station: Meldreth",
         "Viper --[(six]--> Flags Great",
         "Con --[poder]--> (Salvador album):",
         "Released --[2003,]--> won the",
@@ -251,6 +250,7 @@
         "Gaditano --[pouter:]--> The Gaditano",
         "Gaditano --[pouters,]--> along",
         "Lise --[olivier:]--> Lise Olivier",
-        "She --[participated]--> the 2012"
+        "She --[participated]--> the 2012",
+        "Mary --[fitzroy,]--> Duchess Richmond"
     ]
 }
