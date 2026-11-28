@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "more than",
-        "Richard",
-        "Sons: Richard",
         "Their",
         "Perspective",
         "Two figures",
@@ -99,11 +96,12 @@
         "recording had",
         "Gaditano",
         "The Gaditano",
-        "along"
+        "along",
+        "Lise",
+        "Lise Olivier",
+        "the 2012"
     ],
     "edges": [
-        "Namibia --[cricket]--> Ground: Namibia",
-        "The --[headquarters]--> cricket Namibia",
         "Meldreth --[railway]--> station: Meldreth",
         "Viper --[(six]--> Flags Great",
         "Con --[poder]--> (Salvador album):",
@@ -251,6 +249,8 @@
         "Songs --[remember:]--> Songs Remember",
         "The --[album's]--> recording had",
         "Gaditano --[pouter:]--> The Gaditano",
-        "Gaditano --[pouters,]--> along"
+        "Gaditano --[pouters,]--> along",
+        "Lise --[olivier:]--> Lise Olivier",
+        "She --[participated]--> the 2012"
     ]
 }
